@@ -1,0 +1,1453 @@
+Code,Area,Year,Housing Category,Value,Rank
+E09000001,City of London,2010,Own Outright,,
+E09000002,Barking and Dagenham,2010,Own Outright,25300,1.0
+E09000003,Barnet,2010,Own Outright,87600,2.0
+E09000004,Bexley,2010,Own Outright,62800,3.0
+E09000005,Brent,2010,Own Outright,58000,1.0
+E09000006,Bromley,2010,Own Outright,72800,3.0
+E09000007,Camden,2010,Own Outright,37200,1.0
+E09000008,Croydon,2010,Own Outright,60700,2.0
+E09000009,Ealing,2010,Own Outright,72300,2.0
+E09000010,Enfield,2010,Own Outright,62500,2.0
+E09000011,Greenwich,2010,Own Outright,32900,1.0
+E09000012,Hackney,2010,Own Outright,24800,1.0
+E09000013,Hammersmith and Fulham,2010,Own Outright,31900,1.0
+E09000014,Haringey,2010,Own Outright,34900,1.0
+E09000015,Harrow,2010,Own Outright,54700,2.0
+E09000016,Havering,2010,Own Outright,73000,3.0
+E09000017,Hillingdon,2010,Own Outright,43500,1.0
+E09000018,Hounslow,2010,Own Outright,43900,1.0
+E09000019,Islington,2010,Own Outright,24000,1.0
+E09000020,Kensington and Chelsea,2010,Own Outright,37200,2.0
+E09000021,Kingston upon Thames,2010,Own Outright,41900,3.0
+E09000022,Lambeth,2010,Own Outright,41600,1.0
+E09000023,Lewisham,2010,Own Outright,36100,1.0
+E09000024,Merton,2010,Own Outright,37400,2.0
+E09000025,Newham,2010,Own Outright,36000,1.0
+E09000026,Redbridge,2010,Own Outright,65100,3.0
+E09000027,Richmond upon Thames,2010,Own Outright,42900,3.0
+E09000028,Southwark,2010,Own Outright,21800,1.0
+E09000029,Sutton,2010,Own Outright,37600,3.0
+E09000030,Tower Hamlets,2010,Own Outright,20000,1.0
+E09000031,Waltham Forest,2010,Own Outright,45000,1.0
+E09000032,Wandsworth,2010,Own Outright,49800,1.0
+E09000033,Westminster,2010,Own Outright,31400,2.0
+E09000001,City of London,2011,Own Outright,,
+E09000002,Barking and Dagenham,2011,Own Outright,24600,1.0
+E09000003,Barnet,2011,Own Outright,76600,2.0
+E09000004,Bexley,2011,Own Outright,70400,3.0
+E09000005,Brent,2011,Own Outright,48500,1.0
+E09000006,Bromley,2011,Own Outright,86400,3.0
+E09000007,Camden,2011,Own Outright,34100,1.0
+E09000008,Croydon,2011,Own Outright,66800,1.0
+E09000009,Ealing,2011,Own Outright,58800,1.0
+E09000010,Enfield,2011,Own Outright,68000,2.0
+E09000011,Greenwich,2011,Own Outright,37700,1.0
+E09000012,Hackney,2011,Own Outright,23000,1.0
+E09000013,Hammersmith and Fulham,2011,Own Outright,30000,1.0
+E09000014,Haringey,2011,Own Outright,40700,1.0
+E09000015,Harrow,2011,Own Outright,48600,2.0
+E09000016,Havering,2011,Own Outright,74100,3.0
+E09000017,Hillingdon,2011,Own Outright,54000,2.0
+E09000018,Hounslow,2011,Own Outright,49300,2.0
+E09000019,Islington,2011,Own Outright,24000,1.0
+E09000020,Kensington and Chelsea,2011,Own Outright,37700,2.0
+E09000021,Kingston upon Thames,2011,Own Outright,37800,2.0
+E09000022,Lambeth,2011,Own Outright,30200,1.0
+E09000023,Lewisham,2011,Own Outright,32900,1.0
+E09000024,Merton,2011,Own Outright,34000,2.0
+E09000025,Newham,2011,Own Outright,30900,1.0
+E09000026,Redbridge,2011,Own Outright,58400,2.0
+E09000027,Richmond upon Thames,2011,Own Outright,47800,2.0
+E09000028,Southwark,2011,Own Outright,28000,1.0
+E09000029,Sutton,2011,Own Outright,35700,2.0
+E09000030,Tower Hamlets,2011,Own Outright,13900,1.0
+E09000031,Waltham Forest,2011,Own Outright,43700,1.0
+E09000032,Wandsworth,2011,Own Outright,51900,1.0
+E09000033,Westminster,2011,Own Outright,31200,1.0
+E09000001,City of London,2012,Own Outright,,
+E09000002,Barking and Dagenham,2012,Own Outright,26800,1.0
+E09000003,Barnet,2012,Own Outright,76900,2.0
+E09000004,Bexley,2012,Own Outright,66100,3.0
+E09000005,Brent,2012,Own Outright,55900,1.0
+E09000006,Bromley,2012,Own Outright,86700,3.0
+E09000007,Camden,2012,Own Outright,40600,2.0
+E09000008,Croydon,2012,Own Outright,84700,3.0
+E09000009,Ealing,2012,Own Outright,61300,2.0
+E09000010,Enfield,2012,Own Outright,68200,2.0
+E09000011,Greenwich,2012,Own Outright,44300,1.0
+E09000012,Hackney,2012,Own Outright,28800,1.0
+E09000013,Hammersmith and Fulham,2012,Own Outright,33500,1.0
+E09000014,Haringey,2012,Own Outright,42400,1.0
+E09000015,Harrow,2012,Own Outright,52400,2.0
+E09000016,Havering,2012,Own Outright,81400,3.0
+E09000017,Hillingdon,2012,Own Outright,71100,3.0
+E09000018,Hounslow,2012,Own Outright,51500,2.0
+E09000019,Islington,2012,Own Outright,27800,1.0
+E09000020,Kensington and Chelsea,2012,Own Outright,35400,2.0
+E09000021,Kingston upon Thames,2012,Own Outright,37100,2.0
+E09000022,Lambeth,2012,Own Outright,29500,1.0
+E09000023,Lewisham,2012,Own Outright,39300,1.0
+E09000024,Merton,2012,Own Outright,36700,2.0
+E09000025,Newham,2012,Own Outright,33300,1.0
+E09000026,Redbridge,2012,Own Outright,59900,2.0
+E09000027,Richmond upon Thames,2012,Own Outright,46900,3.0
+E09000028,Southwark,2012,Own Outright,34500,1.0
+E09000029,Sutton,2012,Own Outright,42200,3.0
+E09000030,Tower Hamlets,2012,Own Outright,17500,1.0
+E09000031,Waltham Forest,2012,Own Outright,38500,1.0
+E09000032,Wandsworth,2012,Own Outright,56000,2.0
+E09000033,Westminster,2012,Own Outright,36600,2.0
+E09000001,City of London,2013,Own Outright,,
+E09000002,Barking and Dagenham,2013,Own Outright,25300,1.0
+E09000003,Barnet,2013,Own Outright,87800,2.0
+E09000004,Bexley,2013,Own Outright,70300,3.0
+E09000005,Brent,2013,Own Outright,56000,1.0
+E09000006,Bromley,2013,Own Outright,102300,3.0
+E09000007,Camden,2013,Own Outright,38800,2.0
+E09000008,Croydon,2013,Own Outright,81900,3.0
+E09000009,Ealing,2013,Own Outright,63700,2.0
+E09000010,Enfield,2013,Own Outright,73700,2.0
+E09000011,Greenwich,2013,Own Outright,32800,1.0
+E09000012,Hackney,2013,Own Outright,29900,1.0
+E09000013,Hammersmith and Fulham,2013,Own Outright,26900,1.0
+E09000014,Haringey,2013,Own Outright,37300,1.0
+E09000015,Harrow,2013,Own Outright,62400,2.0
+E09000016,Havering,2013,Own Outright,65100,3.0
+E09000017,Hillingdon,2013,Own Outright,63100,3.0
+E09000018,Hounslow,2013,Own Outright,51300,2.0
+E09000019,Islington,2013,Own Outright,28800,1.0
+E09000020,Kensington and Chelsea,2013,Own Outright,30300,2.0
+E09000021,Kingston upon Thames,2013,Own Outright,39000,3.0
+E09000022,Lambeth,2013,Own Outright,34200,1.0
+E09000023,Lewisham,2013,Own Outright,30700,1.0
+E09000024,Merton,2013,Own Outright,44400,2.0
+E09000025,Newham,2013,Own Outright,36300,1.0
+E09000026,Redbridge,2013,Own Outright,59900,2.0
+E09000027,Richmond upon Thames,2013,Own Outright,47100,3.0
+E09000028,Southwark,2013,Own Outright,26400,1.0
+E09000029,Sutton,2013,Own Outright,42100,3.0
+E09000030,Tower Hamlets,2013,Own Outright,17300,1.0
+E09000031,Waltham Forest,2013,Own Outright,39700,1.0
+E09000032,Wandsworth,2013,Own Outright,59400,1.0
+E09000033,Westminster,2013,Own Outright,33200,2.0
+E09000001,City of London,2014,Own Outright,,
+E09000002,Barking and Dagenham,2014,Own Outright,26400,1.0
+E09000003,Barnet,2014,Own Outright,88400,2.0
+E09000004,Bexley,2014,Own Outright,72900,3.0
+E09000005,Brent,2014,Own Outright,62400,2.0
+E09000006,Bromley,2014,Own Outright,102200,3.0
+E09000007,Camden,2014,Own Outright,40500,2.0
+E09000008,Croydon,2014,Own Outright,97200,3.0
+E09000009,Ealing,2014,Own Outright,57200,2.0
+E09000010,Enfield,2014,Own Outright,67100,2.0
+E09000011,Greenwich,2014,Own Outright,40000,1.0
+E09000012,Hackney,2014,Own Outright,27300,1.0
+E09000013,Hammersmith and Fulham,2014,Own Outright,30100,1.0
+E09000014,Haringey,2014,Own Outright,43800,1.0
+E09000015,Harrow,2014,Own Outright,69100,2.0
+E09000016,Havering,2014,Own Outright,71100,3.0
+E09000017,Hillingdon,2014,Own Outright,52800,2.0
+E09000018,Hounslow,2014,Own Outright,58500,2.0
+E09000019,Islington,2014,Own Outright,28700,1.0
+E09000020,Kensington and Chelsea,2014,Own Outright,36900,2.0
+E09000021,Kingston upon Thames,2014,Own Outright,38500,3.0
+E09000022,Lambeth,2014,Own Outright,30000,1.0
+E09000023,Lewisham,2014,Own Outright,38800,1.0
+E09000024,Merton,2014,Own Outright,36700,2.0
+E09000025,Newham,2014,Own Outright,31300,1.0
+E09000026,Redbridge,2014,Own Outright,64200,2.0
+E09000027,Richmond upon Thames,2014,Own Outright,52100,3.0
+E09000028,Southwark,2014,Own Outright,28400,1.0
+E09000029,Sutton,2014,Own Outright,45300,3.0
+E09000030,Tower Hamlets,2014,Own Outright,13600,1.0
+E09000031,Waltham Forest,2014,Own Outright,56500,2.0
+E09000032,Wandsworth,2014,Own Outright,53900,1.0
+E09000033,Westminster,2014,Own Outright,33600,2.0
+E09000001,City of London,2015,Own Outright,,
+E09000002,Barking and Dagenham,2015,Own Outright,32600,1.0
+E09000003,Barnet,2015,Own Outright,89600,2.0
+E09000004,Bexley,2015,Own Outright,78800,3.0
+E09000005,Brent,2015,Own Outright,48100,1.0
+E09000006,Bromley,2015,Own Outright,80400,3.0
+E09000007,Camden,2015,Own Outright,45300,2.0
+E09000008,Croydon,2015,Own Outright,84700,3.0
+E09000009,Ealing,2015,Own Outright,65500,2.0
+E09000010,Enfield,2015,Own Outright,63500,1.0
+E09000011,Greenwich,2015,Own Outright,37800,1.0
+E09000012,Hackney,2015,Own Outright,23500,1.0
+E09000013,Hammersmith and Fulham,2015,Own Outright,26000,1.0
+E09000014,Haringey,2015,Own Outright,39400,1.0
+E09000015,Harrow,2015,Own Outright,73900,3.0
+E09000016,Havering,2015,Own Outright,72200,3.0
+E09000017,Hillingdon,2015,Own Outright,55900,1.0
+E09000018,Hounslow,2015,Own Outright,51300,2.0
+E09000019,Islington,2015,Own Outright,23500,1.0
+E09000020,Kensington and Chelsea,2015,Own Outright,30100,2.0
+E09000021,Kingston upon Thames,2015,Own Outright,37500,3.0
+E09000022,Lambeth,2015,Own Outright,30800,1.0
+E09000023,Lewisham,2015,Own Outright,43400,1.0
+E09000024,Merton,2015,Own Outright,43400,2.0
+E09000025,Newham,2015,Own Outright,32800,1.0
+E09000026,Redbridge,2015,Own Outright,76400,2.0
+E09000027,Richmond upon Thames,2015,Own Outright,48900,3.0
+E09000028,Southwark,2015,Own Outright,25300,1.0
+E09000029,Sutton,2015,Own Outright,45300,3.0
+E09000030,Tower Hamlets,2015,Own Outright,17700,1.0
+E09000031,Waltham Forest,2015,Own Outright,57700,2.0
+E09000032,Wandsworth,2015,Own Outright,50000,2.0
+E09000033,Westminster,2015,Own Outright,34600,2.0
+E09000001,City of London,2016,Own Outright,,
+E09000002,Barking and Dagenham,2016,Own Outright,31000,1.0
+E09000003,Barnet,2016,Own Outright,98600,2.0
+E09000004,Bexley,2016,Own Outright,69600,3.0
+E09000005,Brent,2016,Own Outright,42300,1.0
+E09000006,Bromley,2016,Own Outright,86400,3.0
+E09000007,Camden,2016,Own Outright,41300,1.0
+E09000008,Croydon,2016,Own Outright,78000,3.0
+E09000009,Ealing,2016,Own Outright,66700,2.0
+E09000010,Enfield,2016,Own Outright,63200,1.0
+E09000011,Greenwich,2016,Own Outright,32200,1.0
+E09000012,Hackney,2016,Own Outright,22300,1.0
+E09000013,Hammersmith and Fulham,2016,Own Outright,28800,1.0
+E09000014,Haringey,2016,Own Outright,47500,1.0
+E09000015,Harrow,2016,Own Outright,57800,2.0
+E09000016,Havering,2016,Own Outright,87500,3.0
+E09000017,Hillingdon,2016,Own Outright,56400,2.0
+E09000018,Hounslow,2016,Own Outright,46400,1.0
+E09000019,Islington,2016,Own Outright,30100,1.0
+E09000020,Kensington and Chelsea,2016,Own Outright,32200,2.0
+E09000021,Kingston upon Thames,2016,Own Outright,40800,2.0
+E09000022,Lambeth,2016,Own Outright,40600,1.0
+E09000023,Lewisham,2016,Own Outright,42600,1.0
+E09000024,Merton,2016,Own Outright,53700,3.0
+E09000025,Newham,2016,Own Outright,43500,1.0
+E09000026,Redbridge,2016,Own Outright,68400,2.0
+E09000027,Richmond upon Thames,2016,Own Outright,47800,3.0
+E09000028,Southwark,2016,Own Outright,35000,1.0
+E09000029,Sutton,2016,Own Outright,44400,3.0
+E09000030,Tower Hamlets,2016,Own Outright,21700,1.0
+E09000031,Waltham Forest,2016,Own Outright,49700,2.0
+E09000032,Wandsworth,2016,Own Outright,47800,2.0
+E09000033,Westminster,2016,Own Outright,36500,2.0
+E09000001,City of London,2017,Own Outright,,
+E09000002,Barking and Dagenham,2017,Own Outright,29800,1.0
+E09000003,Barnet,2017,Own Outright,96300,2.0
+E09000004,Bexley,2017,Own Outright,73600,3.0
+E09000005,Brent,2017,Own Outright,49500,1.0
+E09000006,Bromley,2017,Own Outright,84300,3.0
+E09000007,Camden,2017,Own Outright,49700,2.0
+E09000008,Croydon,2017,Own Outright,62300,2.0
+E09000009,Ealing,2017,Own Outright,90200,2.0
+E09000010,Enfield,2017,Own Outright,78400,2.0
+E09000011,Greenwich,2017,Own Outright,40000,1.0
+E09000012,Hackney,2017,Own Outright,35300,1.0
+E09000013,Hammersmith and Fulham,2017,Own Outright,36400,1.0
+E09000014,Haringey,2017,Own Outright,45700,1.0
+E09000015,Harrow,2017,Own Outright,61200,2.0
+E09000016,Havering,2017,Own Outright,81200,3.0
+E09000017,Hillingdon,2017,Own Outright,58400,2.0
+E09000018,Hounslow,2017,Own Outright,48900,1.0
+E09000019,Islington,2017,Own Outright,38000,1.0
+E09000020,Kensington and Chelsea,2017,Own Outright,29500,2.0
+E09000021,Kingston upon Thames,2017,Own Outright,42900,3.0
+E09000022,Lambeth,2017,Own Outright,56400,1.0
+E09000023,Lewisham,2017,Own Outright,36000,1.0
+E09000024,Merton,2017,Own Outright,49500,3.0
+E09000025,Newham,2017,Own Outright,51800,1.0
+E09000026,Redbridge,2017,Own Outright,70300,2.0
+E09000027,Richmond upon Thames,2017,Own Outright,58500,3.0
+E09000028,Southwark,2017,Own Outright,36300,1.0
+E09000029,Sutton,2017,Own Outright,59300,3.0
+E09000030,Tower Hamlets,2017,Own Outright,32300,1.0
+E09000031,Waltham Forest,2017,Own Outright,44100,1.0
+E09000032,Wandsworth,2017,Own Outright,51400,2.0
+E09000033,Westminster,2017,Own Outright,37800,2.0
+E09000001,City of London,2018,Own Outright,,
+E09000002,Barking and Dagenham,2018,Own Outright,35300,1.0
+E09000003,Barnet,2018,Own Outright,98300,3.0
+E09000004,Bexley,2018,Own Outright,70900,3.0
+E09000005,Brent,2018,Own Outright,56900,1.0
+E09000006,Bromley,2018,Own Outright,79600,3.0
+E09000007,Camden,2018,Own Outright,53000,2.0
+E09000008,Croydon,2018,Own Outright,69600,1.0
+E09000009,Ealing,2018,Own Outright,87300,3.0
+E09000010,Enfield,2018,Own Outright,84200,2.0
+E09000011,Greenwich,2018,Own Outright,53700,2.0
+E09000012,Hackney,2018,Own Outright,35600,1.0
+E09000013,Hammersmith and Fulham,2018,Own Outright,28500,1.0
+E09000014,Haringey,2018,Own Outright,56300,2.0
+E09000015,Harrow,2018,Own Outright,62600,2.0
+E09000016,Havering,2018,Own Outright,72900,3.0
+E09000017,Hillingdon,2018,Own Outright,55400,1.0
+E09000018,Hounslow,2018,Own Outright,53600,1.0
+E09000019,Islington,2018,Own Outright,46300,2.0
+E09000020,Kensington and Chelsea,2018,Own Outright,36100,2.0
+E09000021,Kingston upon Thames,2018,Own Outright,44600,2.0
+E09000022,Lambeth,2018,Own Outright,40300,1.0
+E09000023,Lewisham,2018,Own Outright,35100,1.0
+E09000024,Merton,2018,Own Outright,49800,2.0
+E09000025,Newham,2018,Own Outright,68200,1.0
+E09000026,Redbridge,2018,Own Outright,69500,2.0
+E09000027,Richmond upon Thames,2018,Own Outright,57500,3.0
+E09000028,Southwark,2018,Own Outright,41800,1.0
+E09000029,Sutton,2018,Own Outright,55100,3.0
+E09000030,Tower Hamlets,2018,Own Outright,40500,1.0
+E09000031,Waltham Forest,2018,Own Outright,55300,3.0
+E09000032,Wandsworth,2018,Own Outright,53800,2.0
+E09000033,Westminster,2018,Own Outright,52600,2.0
+E09000001,City of London,2019,Own Outright,,
+E09000002,Barking and Dagenham,2019,Own Outright,31800,1.0
+E09000003,Barnet,2019,Own Outright,100900,2.0
+E09000004,Bexley,2019,Own Outright,68600,3.0
+E09000005,Brent,2019,Own Outright,67900,1.0
+E09000006,Bromley,2019,Own Outright,89600,3.0
+E09000007,Camden,2019,Own Outright,51500,2.0
+E09000008,Croydon,2019,Own Outright,71700,1.0
+E09000009,Ealing,2019,Own Outright,71900,2.0
+E09000010,Enfield,2019,Own Outright,64600,1.0
+E09000011,Greenwich,2019,Own Outright,51200,1.0
+E09000012,Hackney,2019,Own Outright,29800,1.0
+E09000013,Hammersmith and Fulham,2019,Own Outright,34200,1.0
+E09000014,Haringey,2019,Own Outright,59500,1.0
+E09000015,Harrow,2019,Own Outright,72400,2.0
+E09000016,Havering,2019,Own Outright,74400,3.0
+E09000017,Hillingdon,2019,Own Outright,58700,2.0
+E09000018,Hounslow,2019,Own Outright,61400,2.0
+E09000019,Islington,2019,Own Outright,41300,1.0
+E09000020,Kensington and Chelsea,2019,Own Outright,37400,2.0
+E09000021,Kingston upon Thames,2019,Own Outright,49500,3.0
+E09000022,Lambeth,2019,Own Outright,32300,1.0
+E09000023,Lewisham,2019,Own Outright,41100,1.0
+E09000024,Merton,2019,Own Outright,44900,2.0
+E09000025,Newham,2019,Own Outright,50800,1.0
+E09000026,Redbridge,2019,Own Outright,69000,2.0
+E09000027,Richmond upon Thames,2019,Own Outright,53200,3.0
+E09000028,Southwark,2019,Own Outright,42200,1.0
+E09000029,Sutton,2019,Own Outright,57900,3.0
+E09000030,Tower Hamlets,2019,Own Outright,28900,1.0
+E09000031,Waltham Forest,2019,Own Outright,57000,2.0
+E09000032,Wandsworth,2019,Own Outright,67300,2.0
+E09000033,Westminster,2019,Own Outright,43400,2.0
+E09000001,City of London,2020,Own Outright,,
+E09000002,Barking and Dagenham,2020,Own Outright,28000,1.0
+E09000003,Barnet,2020,Own Outright,100400,2.0
+E09000004,Bexley,2020,Own Outright,63800,3.0
+E09000005,Brent,2020,Own Outright,77000,3.0
+E09000006,Bromley,2020,Own Outright,92600,3.0
+E09000007,Camden,2020,Own Outright,43400,1.0
+E09000008,Croydon,2020,Own Outright,87400,2.0
+E09000009,Ealing,2020,Own Outright,82800,2.0
+E09000010,Enfield,2020,Own Outright,83000,3.0
+E09000011,Greenwich,2020,Own Outright,47800,1.0
+E09000012,Hackney,2020,Own Outright,22800,1.0
+E09000013,Hammersmith and Fulham,2020,Own Outright,31700,1.0
+E09000014,Haringey,2020,Own Outright,53600,1.0
+E09000015,Harrow,2020,Own Outright,80800,3.0
+E09000016,Havering,2020,Own Outright,68700,3.0
+E09000017,Hillingdon,2020,Own Outright,80300,3.0
+E09000018,Hounslow,2020,Own Outright,44200,1.0
+E09000019,Islington,2020,Own Outright,53200,3.0
+E09000020,Kensington and Chelsea,2020,Own Outright,43500,3.0
+E09000021,Kingston upon Thames,2020,Own Outright,39400,3.0
+E09000022,Lambeth,2020,Own Outright,41800,1.0
+E09000023,Lewisham,2020,Own Outright,48700,1.0
+E09000024,Merton,2020,Own Outright,51700,2.0
+E09000025,Newham,2020,Own Outright,39000,1.0
+E09000026,Redbridge,2020,Own Outright,86500,2.0
+E09000027,Richmond upon Thames,2020,Own Outright,60200,3.0
+E09000028,Southwark,2020,Own Outright,29900,1.0
+E09000029,Sutton,2020,Own Outright,49900,3.0
+E09000030,Tower Hamlets,2020,Own Outright,21100,1.0
+E09000031,Waltham Forest,2020,Own Outright,54900,2.0
+E09000032,Wandsworth,2020,Own Outright,56900,2.0
+E09000033,Westminster,2020,Own Outright,58400,2.0
+E09000001,City of London,2010,Buying with mortgage,,
+E09000002,Barking and Dagenham,2010,Buying with mortgage,64300,4.0
+E09000003,Barnet,2010,Buying with mortgage,127000,4.0
+E09000004,Bexley,2010,Buying with mortgage,104300,4.0
+E09000005,Brent,2010,Buying with mortgage,69500,2.0
+E09000006,Bromley,2010,Buying with mortgage,147200,4.0
+E09000007,Camden,2010,Buying with mortgage,38400,2.0
+E09000008,Croydon,2010,Buying with mortgage,166000,4.0
+E09000009,Ealing,2010,Buying with mortgage,113500,4.0
+E09000010,Enfield,2010,Buying with mortgage,114600,4.0
+E09000011,Greenwich,2010,Buying with mortgage,80100,3.0
+E09000012,Hackney,2010,Buying with mortgage,60200,3.0
+E09000013,Hammersmith and Fulham,2010,Buying with mortgage,40800,2.0
+E09000014,Haringey,2010,Buying with mortgage,75600,3.0
+E09000015,Harrow,2010,Buying with mortgage,92100,4.0
+E09000016,Havering,2010,Buying with mortgage,105600,4.0
+E09000017,Hillingdon,2010,Buying with mortgage,118700,4.0
+E09000018,Hounslow,2010,Buying with mortgage,72300,3.0
+E09000019,Islington,2010,Buying with mortgage,44400,2.0
+E09000020,Kensington and Chelsea,2010,Buying with mortgage,26900,1.0
+E09000021,Kingston upon Thames,2010,Buying with mortgage,60600,4.0
+E09000022,Lambeth,2010,Buying with mortgage,87900,3.0
+E09000023,Lewisham,2010,Buying with mortgage,82900,3.0
+E09000024,Merton,2010,Buying with mortgage,79600,4.0
+E09000025,Newham,2010,Buying with mortgage,71400,2.0
+E09000026,Redbridge,2010,Buying with mortgage,115700,4.0
+E09000027,Richmond upon Thames,2010,Buying with mortgage,79500,4.0
+E09000028,Southwark,2010,Buying with mortgage,74700,3.0
+E09000029,Sutton,2010,Buying with mortgage,98900,4.0
+E09000030,Tower Hamlets,2010,Buying with mortgage,39500,2.0
+E09000031,Waltham Forest,2010,Buying with mortgage,75700,4.0
+E09000032,Wandsworth,2010,Buying with mortgage,93700,3.0
+E09000033,Westminster,2010,Buying with mortgage,27900,1.0
+E09000001,City of London,2011,Buying with mortgage,,
+E09000002,Barking and Dagenham,2011,Buying with mortgage,52900,3.0
+E09000003,Barnet,2011,Buying with mortgage,129000,4.0
+E09000004,Bexley,2011,Buying with mortgage,94900,4.0
+E09000005,Brent,2011,Buying with mortgage,79800,3.0
+E09000006,Bromley,2011,Buying with mortgage,144400,4.0
+E09000007,Camden,2011,Buying with mortgage,36600,2.0
+E09000008,Croydon,2011,Buying with mortgage,151500,4.0
+E09000009,Ealing,2011,Buying with mortgage,117100,4.0
+E09000010,Enfield,2011,Buying with mortgage,116200,4.0
+E09000011,Greenwich,2011,Buying with mortgage,77000,3.0
+E09000012,Hackney,2011,Buying with mortgage,50900,2.0
+E09000013,Hammersmith and Fulham,2011,Buying with mortgage,39300,2.0
+E09000014,Haringey,2011,Buying with mortgage,81500,4.0
+E09000015,Harrow,2011,Buying with mortgage,96100,4.0
+E09000016,Havering,2011,Buying with mortgage,101600,4.0
+E09000017,Hillingdon,2011,Buying with mortgage,117300,4.0
+E09000018,Hounslow,2011,Buying with mortgage,83700,4.0
+E09000019,Islington,2011,Buying with mortgage,44900,2.0
+E09000020,Kensington and Chelsea,2011,Buying with mortgage,21800,1.0
+E09000021,Kingston upon Thames,2011,Buying with mortgage,51100,4.0
+E09000022,Lambeth,2011,Buying with mortgage,87200,3.0
+E09000023,Lewisham,2011,Buying with mortgage,94600,4.0
+E09000024,Merton,2011,Buying with mortgage,81700,4.0
+E09000025,Newham,2011,Buying with mortgage,68200,2.0
+E09000026,Redbridge,2011,Buying with mortgage,109400,4.0
+E09000027,Richmond upon Thames,2011,Buying with mortgage,72200,4.0
+E09000028,Southwark,2011,Buying with mortgage,57700,2.0
+E09000029,Sutton,2011,Buying with mortgage,95100,4.0
+E09000030,Tower Hamlets,2011,Buying with mortgage,39800,2.0
+E09000031,Waltham Forest,2011,Buying with mortgage,85600,4.0
+E09000032,Wandsworth,2011,Buying with mortgage,96600,3.0
+E09000033,Westminster,2011,Buying with mortgage,34300,2.0
+E09000001,City of London,2012,Buying with mortgage,,
+E09000002,Barking and Dagenham,2012,Buying with mortgage,59100,3.0
+E09000003,Barnet,2012,Buying with mortgage,127600,4.0
+E09000004,Bexley,2012,Buying with mortgage,107800,4.0
+E09000005,Brent,2012,Buying with mortgage,78900,3.0
+E09000006,Bromley,2012,Buying with mortgage,154100,4.0
+E09000007,Camden,2012,Buying with mortgage,36700,1.0
+E09000008,Croydon,2012,Buying with mortgage,166400,4.0
+E09000009,Ealing,2012,Buying with mortgage,114100,4.0
+E09000010,Enfield,2012,Buying with mortgage,112400,4.0
+E09000011,Greenwich,2012,Buying with mortgage,74500,3.0
+E09000012,Hackney,2012,Buying with mortgage,60300,3.0
+E09000013,Hammersmith and Fulham,2012,Buying with mortgage,41800,2.0
+E09000014,Haringey,2012,Buying with mortgage,66200,2.0
+E09000015,Harrow,2012,Buying with mortgage,89800,4.0
+E09000016,Havering,2012,Buying with mortgage,100500,4.0
+E09000017,Hillingdon,2012,Buying with mortgage,90200,4.0
+E09000018,Hounslow,2012,Buying with mortgage,93100,4.0
+E09000019,Islington,2012,Buying with mortgage,36800,2.0
+E09000020,Kensington and Chelsea,2012,Buying with mortgage,27600,1.0
+E09000021,Kingston upon Thames,2012,Buying with mortgage,59300,4.0
+E09000022,Lambeth,2012,Buying with mortgage,84500,3.0
+E09000023,Lewisham,2012,Buying with mortgage,96600,4.0
+E09000024,Merton,2012,Buying with mortgage,85300,4.0
+E09000025,Newham,2012,Buying with mortgage,66600,2.0
+E09000026,Redbridge,2012,Buying with mortgage,130300,4.0
+E09000027,Richmond upon Thames,2012,Buying with mortgage,86300,4.0
+E09000028,Southwark,2012,Buying with mortgage,73000,3.0
+E09000029,Sutton,2012,Buying with mortgage,97900,4.0
+E09000030,Tower Hamlets,2012,Buying with mortgage,43800,2.0
+E09000031,Waltham Forest,2012,Buying with mortgage,97600,4.0
+E09000032,Wandsworth,2012,Buying with mortgage,108600,4.0
+E09000033,Westminster,2012,Buying with mortgage,27800,1.0
+E09000001,City of London,2013,Buying with mortgage,,
+E09000002,Barking and Dagenham,2013,Buying with mortgage,58300,3.0
+E09000003,Barnet,2013,Buying with mortgage,131100,4.0
+E09000004,Bexley,2013,Buying with mortgage,96500,4.0
+E09000005,Brent,2013,Buying with mortgage,84500,3.0
+E09000006,Bromley,2013,Buying with mortgage,148000,4.0
+E09000007,Camden,2013,Buying with mortgage,35500,1.0
+E09000008,Croydon,2013,Buying with mortgage,160300,4.0
+E09000009,Ealing,2013,Buying with mortgage,112900,4.0
+E09000010,Enfield,2013,Buying with mortgage,107900,4.0
+E09000011,Greenwich,2013,Buying with mortgage,87700,3.0
+E09000012,Hackney,2013,Buying with mortgage,58300,3.0
+E09000013,Hammersmith and Fulham,2013,Buying with mortgage,40800,2.0
+E09000014,Haringey,2013,Buying with mortgage,83100,4.0
+E09000015,Harrow,2013,Buying with mortgage,77500,4.0
+E09000016,Havering,2013,Buying with mortgage,107800,4.0
+E09000017,Hillingdon,2013,Buying with mortgage,108300,4.0
+E09000018,Hounslow,2013,Buying with mortgage,80100,3.0
+E09000019,Islington,2013,Buying with mortgage,45200,2.0
+E09000020,Kensington and Chelsea,2013,Buying with mortgage,20900,1.0
+E09000021,Kingston upon Thames,2013,Buying with mortgage,73500,4.0
+E09000022,Lambeth,2013,Buying with mortgage,84800,3.0
+E09000023,Lewisham,2013,Buying with mortgage,106600,4.0
+E09000024,Merton,2013,Buying with mortgage,85000,4.0
+E09000025,Newham,2013,Buying with mortgage,65700,2.0
+E09000026,Redbridge,2013,Buying with mortgage,125000,4.0
+E09000027,Richmond upon Thames,2013,Buying with mortgage,82300,4.0
+E09000028,Southwark,2013,Buying with mortgage,75800,3.0
+E09000029,Sutton,2013,Buying with mortgage,98300,4.0
+E09000030,Tower Hamlets,2013,Buying with mortgage,44600,2.0
+E09000031,Waltham Forest,2013,Buying with mortgage,90000,4.0
+E09000032,Wandsworth,2013,Buying with mortgage,103500,4.0
+E09000033,Westminster,2013,Buying with mortgage,28900,1.0
+E09000001,City of London,2014,Buying with mortgage,,
+E09000002,Barking and Dagenham,2014,Buying with mortgage,56500,3.0
+E09000003,Barnet,2014,Buying with mortgage,109000,3.0
+E09000004,Bexley,2014,Buying with mortgage,99900,4.0
+E09000005,Brent,2014,Buying with mortgage,79700,3.0
+E09000006,Bromley,2014,Buying with mortgage,140800,4.0
+E09000007,Camden,2014,Buying with mortgage,40200,1.0
+E09000008,Croydon,2014,Buying with mortgage,137600,4.0
+E09000009,Ealing,2014,Buying with mortgage,119600,4.0
+E09000010,Enfield,2014,Buying with mortgage,124600,4.0
+E09000011,Greenwich,2014,Buying with mortgage,82900,3.0
+E09000012,Hackney,2014,Buying with mortgage,59900,2.0
+E09000013,Hammersmith and Fulham,2014,Buying with mortgage,45200,2.0
+E09000014,Haringey,2014,Buying with mortgage,70900,3.0
+E09000015,Harrow,2014,Buying with mortgage,80800,4.0
+E09000016,Havering,2014,Buying with mortgage,101600,4.0
+E09000017,Hillingdon,2014,Buying with mortgage,109900,4.0
+E09000018,Hounslow,2014,Buying with mortgage,75500,3.0
+E09000019,Islington,2014,Buying with mortgage,52900,3.0
+E09000020,Kensington and Chelsea,2014,Buying with mortgage,26000,1.0
+E09000021,Kingston upon Thames,2014,Buying with mortgage,76200,4.0
+E09000022,Lambeth,2014,Buying with mortgage,86100,2.0
+E09000023,Lewisham,2014,Buying with mortgage,102200,4.0
+E09000024,Merton,2014,Buying with mortgage,75900,4.0
+E09000025,Newham,2014,Buying with mortgage,56100,2.0
+E09000026,Redbridge,2014,Buying with mortgage,118500,4.0
+E09000027,Richmond upon Thames,2014,Buying with mortgage,84500,4.0
+E09000028,Southwark,2014,Buying with mortgage,79800,3.0
+E09000029,Sutton,2014,Buying with mortgage,93700,4.0
+E09000030,Tower Hamlets,2014,Buying with mortgage,56200,2.0
+E09000031,Waltham Forest,2014,Buying with mortgage,79000,4.0
+E09000032,Wandsworth,2014,Buying with mortgage,99100,3.0
+E09000033,Westminster,2014,Buying with mortgage,31500,1.0
+E09000001,City of London,2015,Buying with mortgage,,
+E09000002,Barking and Dagenham,2015,Buying with mortgage,67000,4.0
+E09000003,Barnet,2015,Buying with mortgage,127600,4.0
+E09000004,Bexley,2015,Buying with mortgage,104400,4.0
+E09000005,Brent,2015,Buying with mortgage,87100,3.0
+E09000006,Bromley,2015,Buying with mortgage,153600,4.0
+E09000007,Camden,2015,Buying with mortgage,44300,1.0
+E09000008,Croydon,2015,Buying with mortgage,151400,4.0
+E09000009,Ealing,2015,Buying with mortgage,109800,3.0
+E09000010,Enfield,2015,Buying with mortgage,113800,4.0
+E09000011,Greenwich,2015,Buying with mortgage,86100,4.0
+E09000012,Hackney,2015,Buying with mortgage,59200,2.0
+E09000013,Hammersmith and Fulham,2015,Buying with mortgage,43700,2.0
+E09000014,Haringey,2015,Buying with mortgage,68800,2.0
+E09000015,Harrow,2015,Buying with mortgage,74700,4.0
+E09000016,Havering,2015,Buying with mortgage,110200,4.0
+E09000017,Hillingdon,2015,Buying with mortgage,107700,4.0
+E09000018,Hounslow,2015,Buying with mortgage,82300,4.0
+E09000019,Islington,2015,Buying with mortgage,42000,2.0
+E09000020,Kensington and Chelsea,2015,Buying with mortgage,28500,1.0
+E09000021,Kingston upon Thames,2015,Buying with mortgage,77400,4.0
+E09000022,Lambeth,2015,Buying with mortgage,81500,2.0
+E09000023,Lewisham,2015,Buying with mortgage,101900,4.0
+E09000024,Merton,2015,Buying with mortgage,72400,4.0
+E09000025,Newham,2015,Buying with mortgage,70200,2.0
+E09000026,Redbridge,2015,Buying with mortgage,113200,4.0
+E09000027,Richmond upon Thames,2015,Buying with mortgage,92400,4.0
+E09000028,Southwark,2015,Buying with mortgage,82800,3.0
+E09000029,Sutton,2015,Buying with mortgage,94500,4.0
+E09000030,Tower Hamlets,2015,Buying with mortgage,49900,2.0
+E09000031,Waltham Forest,2015,Buying with mortgage,97800,4.0
+E09000032,Wandsworth,2015,Buying with mortgage,117400,4.0
+E09000033,Westminster,2015,Buying with mortgage,30100,1.0
+E09000001,City of London,2016,Buying with mortgage,,
+E09000002,Barking and Dagenham,2016,Buying with mortgage,70800,4.0
+E09000003,Barnet,2016,Buying with mortgage,132000,4.0
+E09000004,Bexley,2016,Buying with mortgage,110900,4.0
+E09000005,Brent,2016,Buying with mortgage,88900,3.0
+E09000006,Bromley,2016,Buying with mortgage,151200,4.0
+E09000007,Camden,2016,Buying with mortgage,48500,2.0
+E09000008,Croydon,2016,Buying with mortgage,163200,4.0
+E09000009,Ealing,2016,Buying with mortgage,95400,3.0
+E09000010,Enfield,2016,Buying with mortgage,119700,4.0
+E09000011,Greenwich,2016,Buying with mortgage,102100,4.0
+E09000012,Hackney,2016,Buying with mortgage,55500,2.0
+E09000013,Hammersmith and Fulham,2016,Buying with mortgage,41900,2.0
+E09000014,Haringey,2016,Buying with mortgage,69900,2.0
+E09000015,Harrow,2016,Buying with mortgage,82300,3.0
+E09000016,Havering,2016,Buying with mortgage,102300,4.0
+E09000017,Hillingdon,2016,Buying with mortgage,122400,4.0
+E09000018,Hounslow,2016,Buying with mortgage,88100,4.0
+E09000019,Islington,2016,Buying with mortgage,39100,2.0
+E09000020,Kensington and Chelsea,2016,Buying with mortgage,28000,1.0
+E09000021,Kingston upon Thames,2016,Buying with mortgage,67100,4.0
+E09000022,Lambeth,2016,Buying with mortgage,83600,3.0
+E09000023,Lewisham,2016,Buying with mortgage,109400,4.0
+E09000024,Merton,2016,Buying with mortgage,69400,4.0
+E09000025,Newham,2016,Buying with mortgage,77200,2.0
+E09000026,Redbridge,2016,Buying with mortgage,109500,4.0
+E09000027,Richmond upon Thames,2016,Buying with mortgage,99600,4.0
+E09000028,Southwark,2016,Buying with mortgage,83900,3.0
+E09000029,Sutton,2016,Buying with mortgage,92700,4.0
+E09000030,Tower Hamlets,2016,Buying with mortgage,43600,2.0
+E09000031,Waltham Forest,2016,Buying with mortgage,92100,4.0
+E09000032,Wandsworth,2016,Buying with mortgage,123900,4.0
+E09000033,Westminster,2016,Buying with mortgage,31900,1.0
+E09000001,City of London,2017,Buying with mortgage,,
+E09000002,Barking and Dagenham,2017,Buying with mortgage,69100,4.0
+E09000003,Barnet,2017,Buying with mortgage,129200,4.0
+E09000004,Bexley,2017,Buying with mortgage,108700,4.0
+E09000005,Brent,2017,Buying with mortgage,82000,3.0
+E09000006,Bromley,2017,Buying with mortgage,159400,4.0
+E09000007,Camden,2017,Buying with mortgage,48600,1.0
+E09000008,Croydon,2017,Buying with mortgage,160800,4.0
+E09000009,Ealing,2017,Buying with mortgage,108500,4.0
+E09000010,Enfield,2017,Buying with mortgage,103700,4.0
+E09000011,Greenwich,2017,Buying with mortgage,100700,4.0
+E09000012,Hackney,2017,Buying with mortgage,56800,2.0
+E09000013,Hammersmith and Fulham,2017,Buying with mortgage,40800,2.0
+E09000014,Haringey,2017,Buying with mortgage,67200,3.0
+E09000015,Harrow,2017,Buying with mortgage,83400,4.0
+E09000016,Havering,2017,Buying with mortgage,116400,4.0
+E09000017,Hillingdon,2017,Buying with mortgage,115700,4.0
+E09000018,Hounslow,2017,Buying with mortgage,78700,4.0
+E09000019,Islington,2017,Buying with mortgage,43300,2.0
+E09000020,Kensington and Chelsea,2017,Buying with mortgage,24000,1.0
+E09000021,Kingston upon Thames,2017,Buying with mortgage,69600,4.0
+E09000022,Lambeth,2017,Buying with mortgage,87100,3.0
+E09000023,Lewisham,2017,Buying with mortgage,115600,4.0
+E09000024,Merton,2017,Buying with mortgage,74200,4.0
+E09000025,Newham,2017,Buying with mortgage,67900,2.0
+E09000026,Redbridge,2017,Buying with mortgage,120100,4.0
+E09000027,Richmond upon Thames,2017,Buying with mortgage,86100,4.0
+E09000028,Southwark,2017,Buying with mortgage,85700,3.0
+E09000029,Sutton,2017,Buying with mortgage,91100,4.0
+E09000030,Tower Hamlets,2017,Buying with mortgage,38500,2.0
+E09000031,Waltham Forest,2017,Buying with mortgage,98500,4.0
+E09000032,Wandsworth,2017,Buying with mortgage,123000,4.0
+E09000033,Westminster,2017,Buying with mortgage,28400,1.0
+E09000001,City of London,2018,Buying with mortgage,,
+E09000002,Barking and Dagenham,2018,Buying with mortgage,67500,4.0
+E09000003,Barnet,2018,Buying with mortgage,137100,4.0
+E09000004,Bexley,2018,Buying with mortgage,117500,4.0
+E09000005,Brent,2018,Buying with mortgage,86100,3.0
+E09000006,Bromley,2018,Buying with mortgage,136500,4.0
+E09000007,Camden,2018,Buying with mortgage,43100,1.0
+E09000008,Croydon,2018,Buying with mortgage,143600,4.0
+E09000009,Ealing,2018,Buying with mortgage,130700,4.0
+E09000010,Enfield,2018,Buying with mortgage,86000,3.0
+E09000011,Greenwich,2018,Buying with mortgage,96600,4.0
+E09000012,Hackney,2018,Buying with mortgage,52100,2.0
+E09000013,Hammersmith and Fulham,2018,Buying with mortgage,40900,2.0
+E09000014,Haringey,2018,Buying with mortgage,70700,3.0
+E09000015,Harrow,2018,Buying with mortgage,81300,3.0
+E09000016,Havering,2018,Buying with mortgage,111500,4.0
+E09000017,Hillingdon,2018,Buying with mortgage,128200,4.0
+E09000018,Hounslow,2018,Buying with mortgage,84900,4.0
+E09000019,Islington,2018,Buying with mortgage,46200,1.0
+E09000020,Kensington and Chelsea,2018,Buying with mortgage,21600,1.0
+E09000021,Kingston upon Thames,2018,Buying with mortgage,65500,4.0
+E09000022,Lambeth,2018,Buying with mortgage,88300,3.0
+E09000023,Lewisham,2018,Buying with mortgage,110000,4.0
+E09000024,Merton,2018,Buying with mortgage,71900,4.0
+E09000025,Newham,2018,Buying with mortgage,93300,2.0
+E09000026,Redbridge,2018,Buying with mortgage,116400,4.0
+E09000027,Richmond upon Thames,2018,Buying with mortgage,86600,4.0
+E09000028,Southwark,2018,Buying with mortgage,79300,3.0
+E09000029,Sutton,2018,Buying with mortgage,80500,4.0
+E09000030,Tower Hamlets,2018,Buying with mortgage,53800,2.0
+E09000031,Waltham Forest,2018,Buying with mortgage,114100,4.0
+E09000032,Wandsworth,2018,Buying with mortgage,131100,4.0
+E09000033,Westminster,2018,Buying with mortgage,38600,1.0
+E09000001,City of London,2019,Buying with mortgage,,
+E09000002,Barking and Dagenham,2019,Buying with mortgage,50500,2.0
+E09000003,Barnet,2019,Buying with mortgage,132700,4.0
+E09000004,Bexley,2019,Buying with mortgage,107300,4.0
+E09000005,Brent,2019,Buying with mortgage,70400,3.0
+E09000006,Bromley,2019,Buying with mortgage,145300,4.0
+E09000007,Camden,2019,Buying with mortgage,44900,1.0
+E09000008,Croydon,2019,Buying with mortgage,128100,4.0
+E09000009,Ealing,2019,Buying with mortgage,117500,4.0
+E09000010,Enfield,2019,Buying with mortgage,114400,4.0
+E09000011,Greenwich,2019,Buying with mortgage,101000,4.0
+E09000012,Hackney,2019,Buying with mortgage,58800,2.0
+E09000013,Hammersmith and Fulham,2019,Buying with mortgage,45900,3.0
+E09000014,Haringey,2019,Buying with mortgage,65200,2.0
+E09000015,Harrow,2019,Buying with mortgage,87900,4.0
+E09000016,Havering,2019,Buying with mortgage,114700,4.0
+E09000017,Hillingdon,2019,Buying with mortgage,107100,4.0
+E09000018,Hounslow,2019,Buying with mortgage,73500,3.0
+E09000019,Islington,2019,Buying with mortgage,45600,2.0
+E09000020,Kensington and Chelsea,2019,Buying with mortgage,19900,1.0
+E09000021,Kingston upon Thames,2019,Buying with mortgage,72400,4.0
+E09000022,Lambeth,2019,Buying with mortgage,103300,3.0
+E09000023,Lewisham,2019,Buying with mortgage,103400,4.0
+E09000024,Merton,2019,Buying with mortgage,79500,4.0
+E09000025,Newham,2019,Buying with mortgage,75700,2.0
+E09000026,Redbridge,2019,Buying with mortgage,103900,3.0
+E09000027,Richmond upon Thames,2019,Buying with mortgage,90500,4.0
+E09000028,Southwark,2019,Buying with mortgage,75100,3.0
+E09000029,Sutton,2019,Buying with mortgage,80900,4.0
+E09000030,Tower Hamlets,2019,Buying with mortgage,53300,2.0
+E09000031,Waltham Forest,2019,Buying with mortgage,102200,4.0
+E09000032,Wandsworth,2019,Buying with mortgage,101500,3.0
+E09000033,Westminster,2019,Buying with mortgage,31400,1.0
+E09000001,City of London,2020,Buying with mortgage,,
+E09000002,Barking and Dagenham,2020,Buying with mortgage,60200,3.0
+E09000003,Barnet,2020,Buying with mortgage,136900,4.0
+E09000004,Bexley,2020,Buying with mortgage,104700,4.0
+E09000005,Brent,2020,Buying with mortgage,76600,2.0
+E09000006,Bromley,2020,Buying with mortgage,156100,4.0
+E09000007,Camden,2020,Buying with mortgage,58900,2.0
+E09000008,Croydon,2020,Buying with mortgage,153700,4.0
+E09000009,Ealing,2020,Buying with mortgage,98800,3.0
+E09000010,Enfield,2020,Buying with mortgage,134300,4.0
+E09000011,Greenwich,2020,Buying with mortgage,81000,3.0
+E09000012,Hackney,2020,Buying with mortgage,67800,2.0
+E09000013,Hammersmith and Fulham,2020,Buying with mortgage,38200,2.0
+E09000014,Haringey,2020,Buying with mortgage,77700,3.0
+E09000015,Harrow,2020,Buying with mortgage,98400,4.0
+E09000016,Havering,2020,Buying with mortgage,110100,4.0
+E09000017,Hillingdon,2020,Buying with mortgage,117900,4.0
+E09000018,Hounslow,2020,Buying with mortgage,84800,4.0
+E09000019,Islington,2020,Buying with mortgage,50800,1.0
+E09000020,Kensington and Chelsea,2020,Buying with mortgage,22400,1.0
+E09000021,Kingston upon Thames,2020,Buying with mortgage,87000,4.0
+E09000022,Lambeth,2020,Buying with mortgage,90500,2.0
+E09000023,Lewisham,2020,Buying with mortgage,124300,4.0
+E09000024,Merton,2020,Buying with mortgage,68200,3.0
+E09000025,Newham,2020,Buying with mortgage,101300,3.0
+E09000026,Redbridge,2020,Buying with mortgage,106500,4.0
+E09000027,Richmond upon Thames,2020,Buying with mortgage,90200,4.0
+E09000028,Southwark,2020,Buying with mortgage,89900,3.0
+E09000029,Sutton,2020,Buying with mortgage,88600,4.0
+E09000030,Tower Hamlets,2020,Buying with mortgage,63100,2.0
+E09000031,Waltham Forest,2020,Buying with mortgage,125400,4.0
+E09000032,Wandsworth,2020,Buying with mortgage,126300,4.0
+E09000033,Westminster,2020,Buying with mortgage,45800,1.0
+E09000001,City of London,2010,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2010,Rented from Local Authority or Housing Association,62500,3.0
+E09000003,Barnet,2010,Rented from Local Authority or Housing Association,40400,1.0
+E09000004,Bexley,2010,Rented from Local Authority or Housing Association,33700,2.0
+E09000005,Brent,2010,Rented from Local Authority or Housing Association,72200,3.0
+E09000006,Bromley,2010,Rented from Local Authority or Housing Association,47000,2.0
+E09000007,Camden,2010,Rented from Local Authority or Housing Association,75500,4.0
+E09000008,Croydon,2010,Rented from Local Authority or Housing Association,72600,3.0
+E09000009,Ealing,2010,Rented from Local Authority or Housing Association,62100,1.0
+E09000010,Enfield,2010,Rented from Local Authority or Housing Association,54500,1.0
+E09000011,Greenwich,2010,Rented from Local Authority or Housing Association,85300,4.0
+E09000012,Hackney,2010,Rented from Local Authority or Housing Association,103300,4.0
+E09000013,Hammersmith and Fulham,2010,Rented from Local Authority or Housing Association,59600,4.0
+E09000014,Haringey,2010,Rented from Local Authority or Housing Association,77200,4.0
+E09000015,Harrow,2010,Rented from Local Authority or Housing Association,32800,1.0
+E09000016,Havering,2010,Rented from Local Authority or Housing Association,32200,2.0
+E09000017,Hillingdon,2010,Rented from Local Authority or Housing Association,47400,2.0
+E09000018,Hounslow,2010,Rented from Local Authority or Housing Association,57300,2.0
+E09000019,Islington,2010,Rented from Local Authority or Housing Association,79900,4.0
+E09000020,Kensington and Chelsea,2010,Rented from Local Authority or Housing Association,49500,4.0
+E09000021,Kingston upon Thames,2010,Rented from Local Authority or Housing Association,19100,1.0
+E09000022,Lambeth,2010,Rented from Local Authority or Housing Association,94500,4.0
+E09000023,Lewisham,2010,Rented from Local Authority or Housing Association,83800,4.0
+E09000024,Merton,2010,Rented from Local Authority or Housing Association,29400,1.0
+E09000025,Newham,2010,Rented from Local Authority or Housing Association,80600,3.0
+E09000026,Redbridge,2010,Rented from Local Authority or Housing Association,27700,1.0
+E09000027,Richmond upon Thames,2010,Rented from Local Authority or Housing Association,23400,1.0
+E09000028,Southwark,2010,Rented from Local Authority or Housing Association,124200,4.0
+E09000029,Sutton,2010,Rented from Local Authority or Housing Association,23800,1.0
+E09000030,Tower Hamlets,2010,Rented from Local Authority or Housing Association,109400,4.0
+E09000031,Waltham Forest,2010,Rented from Local Authority or Housing Association,58700,2.0
+E09000032,Wandsworth,2010,Rented from Local Authority or Housing Association,56400,2.0
+E09000033,Westminster,2010,Rented from Local Authority or Housing Association,76400,3.0
+E09000001,City of London,2011,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2011,Rented from Local Authority or Housing Association,62800,4.0
+E09000003,Barnet,2011,Rented from Local Authority or Housing Association,63800,1.0
+E09000004,Bexley,2011,Rented from Local Authority or Housing Association,32400,1.0
+E09000005,Brent,2011,Rented from Local Authority or Housing Association,72200,2.0
+E09000006,Bromley,2011,Rented from Local Authority or Housing Association,32200,1.0
+E09000007,Camden,2011,Rented from Local Authority or Housing Association,87700,4.0
+E09000008,Croydon,2011,Rented from Local Authority or Housing Association,73000,3.0
+E09000009,Ealing,2011,Rented from Local Authority or Housing Association,71500,2.0
+E09000010,Enfield,2011,Rented from Local Authority or Housing Association,46000,1.0
+E09000011,Greenwich,2011,Rented from Local Authority or Housing Association,77300,4.0
+E09000012,Hackney,2011,Rented from Local Authority or Housing Association,116300,4.0
+E09000013,Hammersmith and Fulham,2011,Rented from Local Authority or Housing Association,55100,3.0
+E09000014,Haringey,2011,Rented from Local Authority or Housing Association,65300,3.0
+E09000015,Harrow,2011,Rented from Local Authority or Housing Association,27400,1.0
+E09000016,Havering,2011,Rented from Local Authority or Housing Association,35800,2.0
+E09000017,Hillingdon,2011,Rented from Local Authority or Housing Association,42000,1.0
+E09000018,Hounslow,2011,Rented from Local Authority or Housing Association,49000,1.0
+E09000019,Islington,2011,Rented from Local Authority or Housing Association,78900,4.0
+E09000020,Kensington and Chelsea,2011,Rented from Local Authority or Housing Association,51800,4.0
+E09000021,Kingston upon Thames,2011,Rented from Local Authority or Housing Association,27500,1.0
+E09000022,Lambeth,2011,Rented from Local Authority or Housing Association,110300,4.0
+E09000023,Lewisham,2011,Rented from Local Authority or Housing Association,81400,3.0
+E09000024,Merton,2011,Rented from Local Authority or Housing Association,29400,1.0
+E09000025,Newham,2011,Rented from Local Authority or Housing Association,76400,3.0
+E09000026,Redbridge,2011,Rented from Local Authority or Housing Association,33000,1.0
+E09000027,Richmond upon Thames,2011,Rented from Local Authority or Housing Association,17700,1.0
+E09000028,Southwark,2011,Rented from Local Authority or Housing Association,130600,4.0
+E09000029,Sutton,2011,Rented from Local Authority or Housing Association,22800,1.0
+E09000030,Tower Hamlets,2011,Rented from Local Authority or Housing Association,114400,4.0
+E09000031,Waltham Forest,2011,Rented from Local Authority or Housing Association,50700,2.0
+E09000032,Wandsworth,2011,Rented from Local Authority or Housing Association,52200,2.0
+E09000033,Westminster,2011,Rented from Local Authority or Housing Association,59200,3.0
+E09000001,City of London,2012,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2012,Rented from Local Authority or Housing Association,65600,4.0
+E09000003,Barnet,2012,Rented from Local Authority or Housing Association,49300,1.0
+E09000004,Bexley,2012,Rented from Local Authority or Housing Association,31300,2.0
+E09000005,Brent,2012,Rented from Local Authority or Housing Association,70800,2.0
+E09000006,Bromley,2012,Rented from Local Authority or Housing Association,30600,1.0
+E09000007,Camden,2012,Rented from Local Authority or Housing Association,82500,4.0
+E09000008,Croydon,2012,Rented from Local Authority or Housing Association,40700,1.0
+E09000009,Ealing,2012,Rented from Local Authority or Housing Association,51600,1.0
+E09000010,Enfield,2012,Rented from Local Authority or Housing Association,61700,1.0
+E09000011,Greenwich,2012,Rented from Local Authority or Housing Association,83000,4.0
+E09000012,Hackney,2012,Rented from Local Authority or Housing Association,102900,4.0
+E09000013,Hammersmith and Fulham,2012,Rented from Local Authority or Housing Association,57600,4.0
+E09000014,Haringey,2012,Rented from Local Authority or Housing Association,78900,4.0
+E09000015,Harrow,2012,Rented from Local Authority or Housing Association,29800,1.0
+E09000016,Havering,2012,Rented from Local Authority or Housing Association,33100,2.0
+E09000017,Hillingdon,2012,Rented from Local Authority or Housing Association,49200,1.0
+E09000018,Hounslow,2012,Rented from Local Authority or Housing Association,40100,1.0
+E09000019,Islington,2012,Rented from Local Authority or Housing Association,87800,4.0
+E09000020,Kensington and Chelsea,2012,Rented from Local Authority or Housing Association,41700,3.0
+E09000021,Kingston upon Thames,2012,Rented from Local Authority or Housing Association,17800,1.0
+E09000022,Lambeth,2012,Rented from Local Authority or Housing Association,110700,4.0
+E09000023,Lewisham,2012,Rented from Local Authority or Housing Association,79600,3.0
+E09000024,Merton,2012,Rented from Local Authority or Housing Association,26100,1.0
+E09000025,Newham,2012,Rented from Local Authority or Housing Association,97100,3.0
+E09000026,Redbridge,2012,Rented from Local Authority or Housing Association,23300,1.0
+E09000027,Richmond upon Thames,2012,Rented from Local Authority or Housing Association,14100,1.0
+E09000028,Southwark,2012,Rented from Local Authority or Housing Association,124100,4.0
+E09000029,Sutton,2012,Rented from Local Authority or Housing Association,23600,1.0
+E09000030,Tower Hamlets,2012,Rented from Local Authority or Housing Association,108100,4.0
+E09000031,Waltham Forest,2012,Rented from Local Authority or Housing Association,52100,2.0
+E09000032,Wandsworth,2012,Rented from Local Authority or Housing Association,54300,1.0
+E09000033,Westminster,2012,Rented from Local Authority or Housing Association,74500,3.0
+E09000001,City of London,2013,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2013,Rented from Local Authority or Housing Association,69400,4.0
+E09000003,Barnet,2013,Rented from Local Authority or Housing Association,44400,1.0
+E09000004,Bexley,2013,Rented from Local Authority or Housing Association,38000,2.0
+E09000005,Brent,2013,Rented from Local Authority or Housing Association,67100,2.0
+E09000006,Bromley,2013,Rented from Local Authority or Housing Association,28400,1.0
+E09000007,Camden,2013,Rented from Local Authority or Housing Association,87700,4.0
+E09000008,Croydon,2013,Rented from Local Authority or Housing Association,51900,1.0
+E09000009,Ealing,2013,Rented from Local Authority or Housing Association,55000,1.0
+E09000010,Enfield,2013,Rented from Local Authority or Housing Association,60800,1.0
+E09000011,Greenwich,2013,Rented from Local Authority or Housing Association,88600,4.0
+E09000012,Hackney,2013,Rented from Local Authority or Housing Association,118200,4.0
+E09000013,Hammersmith and Fulham,2013,Rented from Local Authority or Housing Association,51500,3.0
+E09000014,Haringey,2013,Rented from Local Authority or Housing Association,68300,2.0
+E09000015,Harrow,2013,Rented from Local Authority or Housing Association,26100,1.0
+E09000016,Havering,2013,Rented from Local Authority or Housing Association,41900,2.0
+E09000017,Hillingdon,2013,Rented from Local Authority or Housing Association,49900,1.0
+E09000018,Hounslow,2013,Rented from Local Authority or Housing Association,46600,1.0
+E09000019,Islington,2013,Rented from Local Authority or Housing Association,89200,4.0
+E09000020,Kensington and Chelsea,2013,Rented from Local Authority or Housing Association,45900,3.0
+E09000021,Kingston upon Thames,2013,Rented from Local Authority or Housing Association,17200,1.0
+E09000022,Lambeth,2013,Rented from Local Authority or Housing Association,83500,2.0
+E09000023,Lewisham,2013,Rented from Local Authority or Housing Association,80700,3.0
+E09000024,Merton,2013,Rented from Local Authority or Housing Association,21300,1.0
+E09000025,Newham,2013,Rented from Local Authority or Housing Association,86900,3.0
+E09000026,Redbridge,2013,Rented from Local Authority or Housing Association,21300,1.0
+E09000027,Richmond upon Thames,2013,Rented from Local Authority or Housing Association,19800,1.0
+E09000028,Southwark,2013,Rented from Local Authority or Housing Association,124900,4.0
+E09000029,Sutton,2013,Rented from Local Authority or Housing Association,25300,1.0
+E09000030,Tower Hamlets,2013,Rented from Local Authority or Housing Association,124800,4.0
+E09000031,Waltham Forest,2013,Rented from Local Authority or Housing Association,49200,2.0
+E09000032,Wandsworth,2013,Rented from Local Authority or Housing Association,64600,2.0
+E09000033,Westminster,2013,Rented from Local Authority or Housing Association,68100,3.0
+E09000001,City of London,2014,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2014,Rented from Local Authority or Housing Association,70500,4.0
+E09000003,Barnet,2014,Rented from Local Authority or Housing Association,45100,1.0
+E09000004,Bexley,2014,Rented from Local Authority or Housing Association,39300,2.0
+E09000005,Brent,2014,Rented from Local Authority or Housing Association,59200,1.0
+E09000006,Bromley,2014,Rented from Local Authority or Housing Association,36000,1.0
+E09000007,Camden,2014,Rented from Local Authority or Housing Association,85600,4.0
+E09000008,Croydon,2014,Rented from Local Authority or Housing Association,68700,1.0
+E09000009,Ealing,2014,Rented from Local Authority or Housing Association,49600,1.0
+E09000010,Enfield,2014,Rented from Local Authority or Housing Association,58100,1.0
+E09000011,Greenwich,2014,Rented from Local Authority or Housing Association,84100,4.0
+E09000012,Hackney,2014,Rented from Local Authority or Housing Association,111800,4.0
+E09000013,Hammersmith and Fulham,2014,Rented from Local Authority or Housing Association,45300,3.0
+E09000014,Haringey,2014,Rented from Local Authority or Housing Association,83500,4.0
+E09000015,Harrow,2014,Rented from Local Authority or Housing Association,19800,1.0
+E09000016,Havering,2014,Rented from Local Authority or Housing Association,39700,2.0
+E09000017,Hillingdon,2014,Rented from Local Authority or Housing Association,44100,1.0
+E09000018,Hounslow,2014,Rented from Local Authority or Housing Association,48300,1.0
+E09000019,Islington,2014,Rented from Local Authority or Housing Association,85100,4.0
+E09000020,Kensington and Chelsea,2014,Rented from Local Authority or Housing Association,45400,3.0
+E09000021,Kingston upon Thames,2014,Rented from Local Authority or Housing Association,14900,1.0
+E09000022,Lambeth,2014,Rented from Local Authority or Housing Association,95800,3.0
+E09000023,Lewisham,2014,Rented from Local Authority or Housing Association,76500,3.0
+E09000024,Merton,2014,Rented from Local Authority or Housing Association,30400,1.0
+E09000025,Newham,2014,Rented from Local Authority or Housing Association,104800,3.0
+E09000026,Redbridge,2014,Rented from Local Authority or Housing Association,28600,1.0
+E09000027,Richmond upon Thames,2014,Rented from Local Authority or Housing Association,15700,1.0
+E09000028,Southwark,2014,Rented from Local Authority or Housing Association,115000,4.0
+E09000029,Sutton,2014,Rented from Local Authority or Housing Association,20300,1.0
+E09000030,Tower Hamlets,2014,Rented from Local Authority or Housing Association,139800,4.0
+E09000031,Waltham Forest,2014,Rented from Local Authority or Housing Association,53000,1.0
+E09000032,Wandsworth,2014,Rented from Local Authority or Housing Association,54600,2.0
+E09000033,Westminster,2014,Rented from Local Authority or Housing Association,65500,3.0
+E09000001,City of London,2015,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2015,Rented from Local Authority or Housing Association,52100,3.0
+E09000003,Barnet,2015,Rented from Local Authority or Housing Association,66900,1.0
+E09000004,Bexley,2015,Rented from Local Authority or Housing Association,36000,2.0
+E09000005,Brent,2015,Rented from Local Authority or Housing Association,63600,2.0
+E09000006,Bromley,2015,Rented from Local Authority or Housing Association,38300,1.0
+E09000007,Camden,2015,Rented from Local Authority or Housing Association,97400,4.0
+E09000008,Croydon,2015,Rented from Local Authority or Housing Association,73200,2.0
+E09000009,Ealing,2015,Rented from Local Authority or Housing Association,50900,1.0
+E09000010,Enfield,2015,Rented from Local Authority or Housing Association,64400,2.0
+E09000011,Greenwich,2015,Rented from Local Authority or Housing Association,82900,3.0
+E09000012,Hackney,2015,Rented from Local Authority or Housing Association,124200,4.0
+E09000013,Hammersmith and Fulham,2015,Rented from Local Authority or Housing Association,52400,3.0
+E09000014,Haringey,2015,Rented from Local Authority or Housing Association,81400,4.0
+E09000015,Harrow,2015,Rented from Local Authority or Housing Association,23900,1.0
+E09000016,Havering,2015,Rented from Local Authority or Housing Association,35400,2.0
+E09000017,Hillingdon,2015,Rented from Local Authority or Housing Association,55900,1.0
+E09000018,Hounslow,2015,Rented from Local Authority or Housing Association,50600,1.0
+E09000019,Islington,2015,Rented from Local Authority or Housing Association,90500,4.0
+E09000020,Kensington and Chelsea,2015,Rented from Local Authority or Housing Association,47100,3.0
+E09000021,Kingston upon Thames,2015,Rented from Local Authority or Housing Association,19200,1.0
+E09000022,Lambeth,2015,Rented from Local Authority or Housing Association,109100,4.0
+E09000023,Lewisham,2015,Rented from Local Authority or Housing Association,77000,3.0
+E09000024,Merton,2015,Rented from Local Authority or Housing Association,36900,1.0
+E09000025,Newham,2015,Rented from Local Authority or Housing Association,92000,3.0
+E09000026,Redbridge,2015,Rented from Local Authority or Housing Association,21500,1.0
+E09000027,Richmond upon Thames,2015,Rented from Local Authority or Housing Association,9100,1.0
+E09000028,Southwark,2015,Rented from Local Authority or Housing Association,134100,4.0
+E09000029,Sutton,2015,Rented from Local Authority or Housing Association,22400,1.0
+E09000030,Tower Hamlets,2015,Rented from Local Authority or Housing Association,144000,4.0
+E09000031,Waltham Forest,2015,Rented from Local Authority or Housing Association,45400,1.0
+E09000032,Wandsworth,2015,Rented from Local Authority or Housing Association,46600,1.0
+E09000033,Westminster,2015,Rented from Local Authority or Housing Association,78300,3.0
+E09000001,City of London,2016,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2016,Rented from Local Authority or Housing Association,61300,3.0
+E09000003,Barnet,2016,Rented from Local Authority or Housing Association,49200,1.0
+E09000004,Bexley,2016,Rented from Local Authority or Housing Association,31000,1.0
+E09000005,Brent,2016,Rented from Local Authority or Housing Association,72400,2.0
+E09000006,Bromley,2016,Rented from Local Authority or Housing Association,34000,1.0
+E09000007,Camden,2016,Rented from Local Authority or Housing Association,94300,4.0
+E09000008,Croydon,2016,Rented from Local Authority or Housing Association,61600,1.0
+E09000009,Ealing,2016,Rented from Local Authority or Housing Association,59300,1.0
+E09000010,Enfield,2016,Rented from Local Authority or Housing Association,68600,2.0
+E09000011,Greenwich,2016,Rented from Local Authority or Housing Association,90900,3.0
+E09000012,Hackney,2016,Rented from Local Authority or Housing Association,120500,4.0
+E09000013,Hammersmith and Fulham,2016,Rented from Local Authority or Housing Association,55700,4.0
+E09000014,Haringey,2016,Rented from Local Authority or Housing Association,79100,4.0
+E09000015,Harrow,2016,Rented from Local Authority or Housing Association,19400,1.0
+E09000016,Havering,2016,Rented from Local Authority or Housing Association,36000,2.0
+E09000017,Hillingdon,2016,Rented from Local Authority or Housing Association,46700,1.0
+E09000018,Hounslow,2016,Rented from Local Authority or Housing Association,63500,2.0
+E09000019,Islington,2016,Rented from Local Authority or Housing Association,94900,4.0
+E09000020,Kensington and Chelsea,2016,Rented from Local Authority or Housing Association,52600,4.0
+E09000021,Kingston upon Thames,2016,Rented from Local Authority or Housing Association,21700,1.0
+E09000022,Lambeth,2016,Rented from Local Authority or Housing Association,121600,4.0
+E09000023,Lewisham,2016,Rented from Local Authority or Housing Association,77000,3.0
+E09000024,Merton,2016,Rented from Local Authority or Housing Association,29700,1.0
+E09000025,Newham,2016,Rented from Local Authority or Housing Association,80100,3.0
+E09000026,Redbridge,2016,Rented from Local Authority or Housing Association,28000,1.0
+E09000027,Richmond upon Thames,2016,Rented from Local Authority or Housing Association,12600,1.0
+E09000028,Southwark,2016,Rented from Local Authority or Housing Association,119800,4.0
+E09000029,Sutton,2016,Rented from Local Authority or Housing Association,25900,1.0
+E09000030,Tower Hamlets,2016,Rented from Local Authority or Housing Association,137200,4.0
+E09000031,Waltham Forest,2016,Rented from Local Authority or Housing Association,42100,1.0
+E09000032,Wandsworth,2016,Rented from Local Authority or Housing Association,44700,1.0
+E09000033,Westminster,2016,Rented from Local Authority or Housing Association,78800,3.0
+E09000001,City of London,2017,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2017,Rented from Local Authority or Housing Association,62500,3.0
+E09000003,Barnet,2017,Rented from Local Authority or Housing Association,40100,1.0
+E09000004,Bexley,2017,Rented from Local Authority or Housing Association,29700,1.0
+E09000005,Brent,2017,Rented from Local Authority or Housing Association,80700,2.0
+E09000006,Bromley,2017,Rented from Local Authority or Housing Association,38200,1.0
+E09000007,Camden,2017,Rented from Local Authority or Housing Association,85800,4.0
+E09000008,Croydon,2017,Rented from Local Authority or Housing Association,60300,1.0
+E09000009,Ealing,2017,Rented from Local Authority or Housing Association,43800,1.0
+E09000010,Enfield,2017,Rented from Local Authority or Housing Association,56300,1.0
+E09000011,Greenwich,2017,Rented from Local Authority or Housing Association,84100,3.0
+E09000012,Hackney,2017,Rented from Local Authority or Housing Association,113200,4.0
+E09000013,Hammersmith and Fulham,2017,Rented from Local Authority or Housing Association,50400,3.0
+E09000014,Haringey,2017,Rented from Local Authority or Housing Association,62200,2.0
+E09000015,Harrow,2017,Rented from Local Authority or Housing Association,19200,1.0
+E09000016,Havering,2017,Rented from Local Authority or Housing Association,28700,2.0
+E09000017,Hillingdon,2017,Rented from Local Authority or Housing Association,56900,1.0
+E09000018,Hounslow,2017,Rented from Local Authority or Housing Association,62300,2.0
+E09000019,Islington,2017,Rented from Local Authority or Housing Association,87600,4.0
+E09000020,Kensington and Chelsea,2017,Rented from Local Authority or Housing Association,55300,4.0
+E09000021,Kingston upon Thames,2017,Rented from Local Authority or Housing Association,20700,1.0
+E09000022,Lambeth,2017,Rented from Local Authority or Housing Association,101100,4.0
+E09000023,Lewisham,2017,Rented from Local Authority or Housing Association,84400,3.0
+E09000024,Merton,2017,Rented from Local Authority or Housing Association,33800,1.0
+E09000025,Newham,2017,Rented from Local Authority or Housing Association,88900,3.0
+E09000026,Redbridge,2017,Rented from Local Authority or Housing Association,18600,1.0
+E09000027,Richmond upon Thames,2017,Rented from Local Authority or Housing Association,11000,1.0
+E09000028,Southwark,2017,Rented from Local Authority or Housing Association,113900,4.0
+E09000029,Sutton,2017,Rented from Local Authority or Housing Association,22200,1.0
+E09000030,Tower Hamlets,2017,Rented from Local Authority or Housing Association,128900,4.0
+E09000031,Waltham Forest,2017,Rented from Local Authority or Housing Association,58900,2.0
+E09000032,Wandsworth,2017,Rented from Local Authority or Housing Association,40500,1.0
+E09000033,Westminster,2017,Rented from Local Authority or Housing Association,77800,3.0
+E09000001,City of London,2018,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2018,Rented from Local Authority or Housing Association,62500,3.0
+E09000003,Barnet,2018,Rented from Local Authority or Housing Association,57900,1.0
+E09000004,Bexley,2018,Rented from Local Authority or Housing Association,20800,1.0
+E09000005,Brent,2018,Rented from Local Authority or Housing Association,77500,2.0
+E09000006,Bromley,2018,Rented from Local Authority or Housing Association,45300,1.0
+E09000007,Camden,2018,Rented from Local Authority or Housing Association,87500,4.0
+E09000008,Croydon,2018,Rented from Local Authority or Housing Association,77400,2.0
+E09000009,Ealing,2018,Rented from Local Authority or Housing Association,41900,1.0
+E09000010,Enfield,2018,Rented from Local Authority or Housing Association,72100,1.0
+E09000011,Greenwich,2018,Rented from Local Authority or Housing Association,81400,3.0
+E09000012,Hackney,2018,Rented from Local Authority or Housing Association,125600,4.0
+E09000013,Hammersmith and Fulham,2018,Rented from Local Authority or Housing Association,52500,3.0
+E09000014,Haringey,2018,Rented from Local Authority or Housing Association,55600,1.0
+E09000015,Harrow,2018,Rented from Local Authority or Housing Association,21200,1.0
+E09000016,Havering,2018,Rented from Local Authority or Housing Association,39800,2.0
+E09000017,Hillingdon,2018,Rented from Local Authority or Housing Association,57200,2.0
+E09000018,Hounslow,2018,Rented from Local Authority or Housing Association,58400,2.0
+E09000019,Islington,2018,Rented from Local Authority or Housing Association,75200,4.0
+E09000020,Kensington and Chelsea,2018,Rented from Local Authority or Housing Association,52300,4.0
+E09000021,Kingston upon Thames,2018,Rented from Local Authority or Housing Association,16100,1.0
+E09000022,Lambeth,2018,Rented from Local Authority or Housing Association,117400,4.0
+E09000023,Lewisham,2018,Rented from Local Authority or Housing Association,90600,3.0
+E09000024,Merton,2018,Rented from Local Authority or Housing Association,31000,1.0
+E09000025,Newham,2018,Rented from Local Authority or Housing Association,97400,4.0
+E09000026,Redbridge,2018,Rented from Local Authority or Housing Association,24400,1.0
+E09000027,Richmond upon Thames,2018,Rented from Local Authority or Housing Association,17400,1.0
+E09000028,Southwark,2018,Rented from Local Authority or Housing Association,116800,4.0
+E09000029,Sutton,2018,Rented from Local Authority or Housing Association,21400,1.0
+E09000030,Tower Hamlets,2018,Rented from Local Authority or Housing Association,110200,4.0
+E09000031,Waltham Forest,2018,Rented from Local Authority or Housing Association,53700,2.0
+E09000032,Wandsworth,2018,Rented from Local Authority or Housing Association,51400,1.0
+E09000033,Westminster,2018,Rented from Local Authority or Housing Association,65500,3.0
+E09000001,City of London,2019,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2019,Rented from Local Authority or Housing Association,69500,4.0
+E09000003,Barnet,2019,Rented from Local Authority or Housing Association,47300,1.0
+E09000004,Bexley,2019,Rented from Local Authority or Housing Association,34500,1.0
+E09000005,Brent,2019,Rented from Local Authority or Housing Association,69900,2.0
+E09000006,Bromley,2019,Rented from Local Authority or Housing Association,32200,1.0
+E09000007,Camden,2019,Rented from Local Authority or Housing Association,94000,4.0
+E09000008,Croydon,2019,Rented from Local Authority or Housing Association,75400,2.0
+E09000009,Ealing,2019,Rented from Local Authority or Housing Association,42700,1.0
+E09000010,Enfield,2019,Rented from Local Authority or Housing Association,73000,2.0
+E09000011,Greenwich,2019,Rented from Local Authority or Housing Association,75900,3.0
+E09000012,Hackney,2019,Rented from Local Authority or Housing Association,115500,4.0
+E09000013,Hammersmith and Fulham,2019,Rented from Local Authority or Housing Association,43500,2.0
+E09000014,Haringey,2019,Rented from Local Authority or Housing Association,67200,3.0
+E09000015,Harrow,2019,Rented from Local Authority or Housing Association,15200,1.0
+E09000016,Havering,2019,Rented from Local Authority or Housing Association,39300,2.0
+E09000017,Hillingdon,2019,Rented from Local Authority or Housing Association,49400,1.0
+E09000018,Hounslow,2019,Rented from Local Authority or Housing Association,57200,1.0
+E09000019,Islington,2019,Rented from Local Authority or Housing Association,97100,4.0
+E09000020,Kensington and Chelsea,2019,Rented from Local Authority or Housing Association,51400,4.0
+E09000021,Kingston upon Thames,2019,Rented from Local Authority or Housing Association,9100,1.0
+E09000022,Lambeth,2019,Rented from Local Authority or Housing Association,106700,4.0
+E09000023,Lewisham,2019,Rented from Local Authority or Housing Association,93800,3.0
+E09000024,Merton,2019,Rented from Local Authority or Housing Association,25700,1.0
+E09000025,Newham,2019,Rented from Local Authority or Housing Association,108300,3.0
+E09000026,Redbridge,2019,Rented from Local Authority or Housing Association,26600,1.0
+E09000027,Richmond upon Thames,2019,Rented from Local Authority or Housing Association,20000,1.0
+E09000028,Southwark,2019,Rented from Local Authority or Housing Association,134100,4.0
+E09000029,Sutton,2019,Rented from Local Authority or Housing Association,29100,1.0
+E09000030,Tower Hamlets,2019,Rented from Local Authority or Housing Association,136400,4.0
+E09000031,Waltham Forest,2019,Rented from Local Authority or Housing Association,48100,1.0
+E09000032,Wandsworth,2019,Rented from Local Authority or Housing Association,48900,1.0
+E09000033,Westminster,2019,Rented from Local Authority or Housing Association,82500,3.0
+E09000001,City of London,2020,Rented from Local Authority or Housing Association,,
+E09000002,Barking and Dagenham,2020,Rented from Local Authority or Housing Association,83500,4.0
+E09000003,Barnet,2020,Rented from Local Authority or Housing Association,54200,1.0
+E09000004,Bexley,2020,Rented from Local Authority or Housing Association,42900,2.0
+E09000005,Brent,2020,Rented from Local Authority or Housing Association,58200,1.0
+E09000006,Bromley,2020,Rented from Local Authority or Housing Association,44500,1.0
+E09000007,Camden,2020,Rented from Local Authority or Housing Association,92800,4.0
+E09000008,Croydon,2020,Rented from Local Authority or Housing Association,53600,1.0
+E09000009,Ealing,2020,Rented from Local Authority or Housing Association,45400,1.0
+E09000010,Enfield,2020,Rented from Local Authority or Housing Association,54500,1.0
+E09000011,Greenwich,2020,Rented from Local Authority or Housing Association,83900,4.0
+E09000012,Hackney,2020,Rented from Local Authority or Housing Association,104100,4.0
+E09000013,Hammersmith and Fulham,2020,Rented from Local Authority or Housing Association,47700,3.0
+E09000014,Haringey,2020,Rented from Local Authority or Housing Association,62900,2.0
+E09000015,Harrow,2020,Rented from Local Authority or Housing Association,18400,1.0
+E09000016,Havering,2020,Rented from Local Authority or Housing Association,32200,1.0
+E09000017,Hillingdon,2020,Rented from Local Authority or Housing Association,44800,1.0
+E09000018,Hounslow,2020,Rented from Local Authority or Housing Association,60700,2.0
+E09000019,Islington,2020,Rented from Local Authority or Housing Association,85800,4.0
+E09000020,Kensington and Chelsea,2020,Rented from Local Authority or Housing Association,37200,2.0
+E09000021,Kingston upon Thames,2020,Rented from Local Authority or Housing Association,17400,1.0
+E09000022,Lambeth,2020,Rented from Local Authority or Housing Association,96300,3.0
+E09000023,Lewisham,2020,Rented from Local Authority or Housing Association,73400,3.0
+E09000024,Merton,2020,Rented from Local Authority or Housing Association,20700,1.0
+E09000025,Newham,2020,Rented from Local Authority or Housing Association,93400,2.0
+E09000026,Redbridge,2020,Rented from Local Authority or Housing Association,19600,1.0
+E09000027,Richmond upon Thames,2020,Rented from Local Authority or Housing Association,19900,1.0
+E09000028,Southwark,2020,Rented from Local Authority or Housing Association,115600,4.0
+E09000029,Sutton,2020,Rented from Local Authority or Housing Association,19600,1.0
+E09000030,Tower Hamlets,2020,Rented from Local Authority or Housing Association,131400,4.0
+E09000031,Waltham Forest,2020,Rented from Local Authority or Housing Association,44600,1.0
+E09000032,Wandsworth,2020,Rented from Local Authority or Housing Association,34900,1.0
+E09000033,Westminster,2020,Rented from Local Authority or Housing Association,71000,4.0
+E09000001,City of London,2010,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2010,Rented from Private landlord,29900,2.0
+E09000003,Barnet,2010,Rented from Private landlord,88400,3.0
+E09000004,Bexley,2010,Rented from Private landlord,28800,1.0
+E09000005,Brent,2010,Rented from Private landlord,99700,4.0
+E09000006,Bromley,2010,Rented from Private landlord,39300,1.0
+E09000007,Camden,2010,Rented from Private landlord,60300,3.0
+E09000008,Croydon,2010,Rented from Private landlord,55400,1.0
+E09000009,Ealing,2010,Rented from Private landlord,80600,3.0
+E09000010,Enfield,2010,Rented from Private landlord,73800,3.0
+E09000011,Greenwich,2010,Rented from Private landlord,48400,2.0
+E09000012,Hackney,2010,Rented from Private landlord,52500,2.0
+E09000013,Hammersmith and Fulham,2010,Rented from Private landlord,46200,3.0
+E09000014,Haringey,2010,Rented from Private landlord,63400,2.0
+E09000015,Harrow,2010,Rented from Private landlord,54900,3.0
+E09000016,Havering,2010,Rented from Private landlord,23800,1.0
+E09000017,Hillingdon,2010,Rented from Private landlord,57200,3.0
+E09000018,Hounslow,2010,Rented from Private landlord,73300,4.0
+E09000019,Islington,2010,Rented from Private landlord,49700,3.0
+E09000020,Kensington and Chelsea,2010,Rented from Private landlord,44500,3.0
+E09000021,Kingston upon Thames,2010,Rented from Private landlord,35500,2.0
+E09000022,Lambeth,2010,Rented from Private landlord,70300,2.0
+E09000023,Lewisham,2010,Rented from Private landlord,67700,2.0
+E09000024,Merton,2010,Rented from Private landlord,51100,3.0
+E09000025,Newham,2010,Rented from Private landlord,107000,4.0
+E09000026,Redbridge,2010,Rented from Private landlord,64500,2.0
+E09000027,Richmond upon Thames,2010,Rented from Private landlord,38700,2.0
+E09000028,Southwark,2010,Rented from Private landlord,59000,2.0
+E09000029,Sutton,2010,Rented from Private landlord,27500,2.0
+E09000030,Tower Hamlets,2010,Rented from Private landlord,78300,3.0
+E09000031,Waltham Forest,2010,Rented from Private landlord,73000,3.0
+E09000032,Wandsworth,2010,Rented from Private landlord,98900,4.0
+E09000033,Westminster,2010,Rented from Private landlord,78700,4.0
+E09000001,City of London,2011,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2011,Rented from Private landlord,45800,2.0
+E09000003,Barnet,2011,Rented from Private landlord,83100,3.0
+E09000004,Bexley,2011,Rented from Private landlord,33000,2.0
+E09000005,Brent,2011,Rented from Private landlord,107700,4.0
+E09000006,Bromley,2011,Rented from Private landlord,44800,2.0
+E09000007,Camden,2011,Rented from Private landlord,58700,3.0
+E09000008,Croydon,2011,Rented from Private landlord,70300,2.0
+E09000009,Ealing,2011,Rented from Private landlord,88500,3.0
+E09000010,Enfield,2011,Rented from Private landlord,78400,3.0
+E09000011,Greenwich,2011,Rented from Private landlord,60900,2.0
+E09000012,Hackney,2011,Rented from Private landlord,55600,3.0
+E09000013,Hammersmith and Fulham,2011,Rented from Private landlord,56600,4.0
+E09000014,Haringey,2011,Rented from Private landlord,62600,2.0
+E09000015,Harrow,2011,Rented from Private landlord,66300,3.0
+E09000016,Havering,2011,Rented from Private landlord,24300,1.0
+E09000017,Hillingdon,2011,Rented from Private landlord,59700,3.0
+E09000018,Hounslow,2011,Rented from Private landlord,71700,3.0
+E09000019,Islington,2011,Rented from Private landlord,56200,3.0
+E09000020,Kensington and Chelsea,2011,Rented from Private landlord,44500,3.0
+E09000021,Kingston upon Thames,2011,Rented from Private landlord,41400,3.0
+E09000022,Lambeth,2011,Rented from Private landlord,73800,2.0
+E09000023,Lewisham,2011,Rented from Private landlord,65000,2.0
+E09000024,Merton,2011,Rented from Private landlord,54000,3.0
+E09000025,Newham,2011,Rented from Private landlord,133200,4.0
+E09000026,Redbridge,2011,Rented from Private landlord,79200,3.0
+E09000027,Richmond upon Thames,2011,Rented from Private landlord,48100,3.0
+E09000028,Southwark,2011,Rented from Private landlord,68100,3.0
+E09000029,Sutton,2011,Rented from Private landlord,36200,3.0
+E09000030,Tower Hamlets,2011,Rented from Private landlord,85700,3.0
+E09000031,Waltham Forest,2011,Rented from Private landlord,78000,3.0
+E09000032,Wandsworth,2011,Rented from Private landlord,103500,4.0
+E09000033,Westminster,2011,Rented from Private landlord,94700,4.0
+E09000001,City of London,2012,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2012,Rented from Private landlord,37200,2.0
+E09000003,Barnet,2012,Rented from Private landlord,104600,3.0
+E09000004,Bexley,2012,Rented from Private landlord,27900,1.0
+E09000005,Brent,2012,Rented from Private landlord,106900,4.0
+E09000006,Bromley,2012,Rented from Private landlord,40200,2.0
+E09000007,Camden,2012,Rented from Private landlord,62500,3.0
+E09000008,Croydon,2012,Rented from Private landlord,72800,2.0
+E09000009,Ealing,2012,Rented from Private landlord,109500,3.0
+E09000010,Enfield,2012,Rented from Private landlord,72100,3.0
+E09000011,Greenwich,2012,Rented from Private landlord,55400,2.0
+E09000012,Hackney,2012,Rented from Private landlord,59200,2.0
+E09000013,Hammersmith and Fulham,2012,Rented from Private landlord,47800,3.0
+E09000014,Haringey,2012,Rented from Private landlord,68000,3.0
+E09000015,Harrow,2012,Rented from Private landlord,67300,3.0
+E09000016,Havering,2012,Rented from Private landlord,22800,1.0
+E09000017,Hillingdon,2012,Rented from Private landlord,68300,2.0
+E09000018,Hounslow,2012,Rented from Private landlord,71300,3.0
+E09000019,Islington,2012,Rented from Private landlord,56600,3.0
+E09000020,Kensington and Chelsea,2012,Rented from Private landlord,49700,4.0
+E09000021,Kingston upon Thames,2012,Rented from Private landlord,47400,3.0
+E09000022,Lambeth,2012,Rented from Private landlord,82000,2.0
+E09000023,Lewisham,2012,Rented from Private landlord,63700,2.0
+E09000024,Merton,2012,Rented from Private landlord,52100,3.0
+E09000025,Newham,2012,Rented from Private landlord,118000,4.0
+E09000026,Redbridge,2012,Rented from Private landlord,69500,3.0
+E09000027,Richmond upon Thames,2012,Rented from Private landlord,39900,2.0
+E09000028,Southwark,2012,Rented from Private landlord,59800,2.0
+E09000029,Sutton,2012,Rented from Private landlord,28300,2.0
+E09000030,Tower Hamlets,2012,Rented from Private landlord,93100,3.0
+E09000031,Waltham Forest,2012,Rented from Private landlord,72200,3.0
+E09000032,Wandsworth,2012,Rented from Private landlord,86500,3.0
+E09000033,Westminster,2012,Rented from Private landlord,84300,4.0
+E09000001,City of London,2013,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2013,Rented from Private landlord,39800,2.0
+E09000003,Barnet,2013,Rented from Private landlord,100000,3.0
+E09000004,Bexley,2013,Rented from Private landlord,30900,1.0
+E09000005,Brent,2013,Rented from Private landlord,106900,4.0
+E09000006,Bromley,2013,Rented from Private landlord,36600,2.0
+E09000007,Camden,2013,Rented from Private landlord,65900,3.0
+E09000008,Croydon,2013,Rented from Private landlord,75200,2.0
+E09000009,Ealing,2013,Rented from Private landlord,106600,3.0
+E09000010,Enfield,2013,Rented from Private landlord,73700,2.0
+E09000011,Greenwich,2013,Rented from Private landlord,50700,2.0
+E09000012,Hackney,2013,Rented from Private landlord,50100,2.0
+E09000013,Hammersmith and Fulham,2013,Rented from Private landlord,60800,4.0
+E09000014,Haringey,2013,Rented from Private landlord,71000,3.0
+E09000015,Harrow,2013,Rented from Private landlord,74400,3.0
+E09000016,Havering,2013,Rented from Private landlord,24500,1.0
+E09000017,Hillingdon,2013,Rented from Private landlord,62200,2.0
+E09000018,Hounslow,2013,Rented from Private landlord,82000,4.0
+E09000019,Islington,2013,Rented from Private landlord,50200,3.0
+E09000020,Kensington and Chelsea,2013,Rented from Private landlord,58200,4.0
+E09000021,Kingston upon Thames,2013,Rented from Private landlord,33500,2.0
+E09000022,Lambeth,2013,Rented from Private landlord,104800,4.0
+E09000023,Lewisham,2013,Rented from Private landlord,65300,2.0
+E09000024,Merton,2013,Rented from Private landlord,48500,3.0
+E09000025,Newham,2013,Rented from Private landlord,130300,4.0
+E09000026,Redbridge,2013,Rented from Private landlord,79700,3.0
+E09000027,Richmond upon Thames,2013,Rented from Private landlord,39300,2.0
+E09000028,Southwark,2013,Rented from Private landlord,69400,2.0
+E09000029,Sutton,2013,Rented from Private landlord,28700,2.0
+E09000030,Tower Hamlets,2013,Rented from Private landlord,85600,3.0
+E09000031,Waltham Forest,2013,Rented from Private landlord,85100,3.0
+E09000032,Wandsworth,2013,Rented from Private landlord,81600,3.0
+E09000033,Westminster,2013,Rented from Private landlord,93200,4.0
+E09000001,City of London,2014,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2014,Rented from Private landlord,44300,2.0
+E09000003,Barnet,2014,Rented from Private landlord,124800,4.0
+E09000004,Bexley,2014,Rented from Private landlord,26800,1.0
+E09000005,Brent,2014,Rented from Private landlord,117000,4.0
+E09000006,Bromley,2014,Rented from Private landlord,39800,2.0
+E09000007,Camden,2014,Rented from Private landlord,67100,3.0
+E09000008,Croydon,2014,Rented from Private landlord,69000,2.0
+E09000009,Ealing,2014,Rented from Private landlord,112200,3.0
+E09000010,Enfield,2014,Rented from Private landlord,72400,3.0
+E09000011,Greenwich,2014,Rented from Private landlord,59300,2.0
+E09000012,Hackney,2014,Rented from Private landlord,60500,3.0
+E09000013,Hammersmith and Fulham,2014,Rented from Private landlord,59600,4.0
+E09000014,Haringey,2014,Rented from Private landlord,64800,2.0
+E09000015,Harrow,2014,Rented from Private landlord,72700,3.0
+E09000016,Havering,2014,Rented from Private landlord,32000,1.0
+E09000017,Hillingdon,2014,Rented from Private landlord,82000,3.0
+E09000018,Hounslow,2014,Rented from Private landlord,80500,4.0
+E09000019,Islington,2014,Rented from Private landlord,51600,2.0
+E09000020,Kensington and Chelsea,2014,Rented from Private landlord,47800,4.0
+E09000021,Kingston upon Thames,2014,Rented from Private landlord,37000,2.0
+E09000022,Lambeth,2014,Rented from Private landlord,102100,4.0
+E09000023,Lewisham,2014,Rented from Private landlord,71100,2.0
+E09000024,Merton,2014,Rented from Private landlord,59600,3.0
+E09000025,Newham,2014,Rented from Private landlord,134700,4.0
+E09000026,Redbridge,2014,Rented from Private landlord,79400,3.0
+E09000027,Richmond upon Thames,2014,Rented from Private landlord,39200,2.0
+E09000028,Southwark,2014,Rented from Private landlord,76600,2.0
+E09000029,Sutton,2014,Rented from Private landlord,36700,2.0
+E09000030,Tower Hamlets,2014,Rented from Private landlord,73700,3.0
+E09000031,Waltham Forest,2014,Rented from Private landlord,76400,3.0
+E09000032,Wandsworth,2014,Rented from Private landlord,102300,4.0
+E09000033,Westminster,2014,Rented from Private landlord,97500,4.0
+E09000001,City of London,2015,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2015,Rented from Private landlord,49900,2.0
+E09000003,Barnet,2015,Rented from Private landlord,91000,3.0
+E09000004,Bexley,2015,Rented from Private landlord,22000,1.0
+E09000005,Brent,2015,Rented from Private landlord,122700,4.0
+E09000006,Bromley,2015,Rented from Private landlord,50500,2.0
+E09000007,Camden,2015,Rented from Private landlord,52400,3.0
+E09000008,Croydon,2015,Rented from Private landlord,67500,1.0
+E09000009,Ealing,2015,Rented from Private landlord,114600,4.0
+E09000010,Enfield,2015,Rented from Private landlord,84200,3.0
+E09000011,Greenwich,2015,Rented from Private landlord,65100,2.0
+E09000012,Hackney,2015,Rented from Private landlord,60500,3.0
+E09000013,Hammersmith and Fulham,2015,Rented from Private landlord,57000,4.0
+E09000014,Haringey,2015,Rented from Private landlord,77200,3.0
+E09000015,Harrow,2015,Rented from Private landlord,72300,2.0
+E09000016,Havering,2015,Rented from Private landlord,29900,1.0
+E09000017,Hillingdon,2015,Rented from Private landlord,74000,3.0
+E09000018,Hounslow,2015,Rented from Private landlord,81000,3.0
+E09000019,Islington,2015,Rented from Private landlord,69200,3.0
+E09000020,Kensington and Chelsea,2015,Rented from Private landlord,50500,4.0
+E09000021,Kingston upon Thames,2015,Rented from Private landlord,35200,2.0
+E09000022,Lambeth,2015,Rented from Private landlord,92000,3.0
+E09000023,Lewisham,2015,Rented from Private landlord,67500,2.0
+E09000024,Merton,2015,Rented from Private landlord,51700,3.0
+E09000025,Newham,2015,Rented from Private landlord,138200,4.0
+E09000026,Redbridge,2015,Rented from Private landlord,85100,3.0
+E09000027,Richmond upon Thames,2015,Rented from Private landlord,42000,2.0
+E09000028,Southwark,2015,Rented from Private landlord,62300,2.0
+E09000029,Sutton,2015,Rented from Private landlord,36200,2.0
+E09000030,Tower Hamlets,2015,Rented from Private landlord,80800,3.0
+E09000031,Waltham Forest,2015,Rented from Private landlord,68100,3.0
+E09000032,Wandsworth,2015,Rented from Private landlord,101300,3.0
+E09000033,Westminster,2015,Rented from Private landlord,89300,4.0
+E09000001,City of London,2016,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2016,Rented from Private landlord,44100,2.0
+E09000003,Barnet,2016,Rented from Private landlord,101200,3.0
+E09000004,Bexley,2016,Rented from Private landlord,32400,2.0
+E09000005,Brent,2016,Rented from Private landlord,120600,4.0
+E09000006,Bromley,2016,Rented from Private landlord,53500,2.0
+E09000007,Camden,2016,Rented from Private landlord,61900,3.0
+E09000008,Croydon,2016,Rented from Private landlord,74800,2.0
+E09000009,Ealing,2016,Rented from Private landlord,119900,4.0
+E09000010,Enfield,2016,Rented from Private landlord,78300,3.0
+E09000011,Greenwich,2016,Rented from Private landlord,51400,2.0
+E09000012,Hackney,2016,Rented from Private landlord,73400,3.0
+E09000013,Hammersmith and Fulham,2016,Rented from Private landlord,54000,3.0
+E09000014,Haringey,2016,Rented from Private landlord,73900,3.0
+E09000015,Harrow,2016,Rented from Private landlord,87100,4.0
+E09000016,Havering,2016,Rented from Private landlord,26000,1.0
+E09000017,Hillingdon,2016,Rented from Private landlord,71900,3.0
+E09000018,Hounslow,2016,Rented from Private landlord,69000,3.0
+E09000019,Islington,2016,Rented from Private landlord,65500,3.0
+E09000020,Kensington and Chelsea,2016,Rented from Private landlord,42300,3.0
+E09000021,Kingston upon Thames,2016,Rented from Private landlord,42100,3.0
+E09000022,Lambeth,2016,Rented from Private landlord,74500,2.0
+E09000023,Lewisham,2016,Rented from Private landlord,66800,2.0
+E09000024,Merton,2016,Rented from Private landlord,52300,2.0
+E09000025,Newham,2016,Rented from Private landlord,142400,4.0
+E09000026,Redbridge,2016,Rented from Private landlord,93300,3.0
+E09000027,Richmond upon Thames,2016,Rented from Private landlord,33400,2.0
+E09000028,Southwark,2016,Rented from Private landlord,70000,2.0
+E09000029,Sutton,2016,Rented from Private landlord,36700,2.0
+E09000030,Tower Hamlets,2016,Rented from Private landlord,96900,3.0
+E09000031,Waltham Forest,2016,Rented from Private landlord,88700,3.0
+E09000032,Wandsworth,2016,Rented from Private landlord,100000,3.0
+E09000033,Westminster,2016,Rented from Private landlord,91100,4.0
+E09000001,City of London,2017,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2017,Rented from Private landlord,48300,2.0
+E09000003,Barnet,2017,Rented from Private landlord,117800,3.0
+E09000004,Bexley,2017,Rented from Private landlord,32900,2.0
+E09000005,Brent,2017,Rented from Private landlord,114900,4.0
+E09000006,Bromley,2017,Rented from Private landlord,44800,2.0
+E09000007,Camden,2017,Rented from Private landlord,66500,3.0
+E09000008,Croydon,2017,Rented from Private landlord,98100,3.0
+E09000009,Ealing,2017,Rented from Private landlord,96600,3.0
+E09000010,Enfield,2017,Rented from Private landlord,92000,3.0
+E09000011,Greenwich,2017,Rented from Private landlord,55400,2.0
+E09000012,Hackney,2017,Rented from Private landlord,68500,3.0
+E09000013,Hammersmith and Fulham,2017,Rented from Private landlord,53300,4.0
+E09000014,Haringey,2017,Rented from Private landlord,94500,4.0
+E09000015,Harrow,2017,Rented from Private landlord,82900,3.0
+E09000016,Havering,2017,Rented from Private landlord,27900,1.0
+E09000017,Hillingdon,2017,Rented from Private landlord,68200,3.0
+E09000018,Hounslow,2017,Rented from Private landlord,78000,3.0
+E09000019,Islington,2017,Rented from Private landlord,63000,3.0
+E09000020,Kensington and Chelsea,2017,Rented from Private landlord,45000,3.0
+E09000021,Kingston upon Thames,2017,Rented from Private landlord,39700,2.0
+E09000022,Lambeth,2017,Rented from Private landlord,76700,2.0
+E09000023,Lewisham,2017,Rented from Private landlord,62600,2.0
+E09000024,Merton,2017,Rented from Private landlord,46500,2.0
+E09000025,Newham,2017,Rented from Private landlord,137700,4.0
+E09000026,Redbridge,2017,Rented from Private landlord,90700,3.0
+E09000027,Richmond upon Thames,2017,Rented from Private landlord,37800,2.0
+E09000028,Southwark,2017,Rented from Private landlord,76100,2.0
+E09000029,Sutton,2017,Rented from Private landlord,28800,2.0
+E09000030,Tower Hamlets,2017,Rented from Private landlord,106900,3.0
+E09000031,Waltham Forest,2017,Rented from Private landlord,71700,3.0
+E09000032,Wandsworth,2017,Rented from Private landlord,104700,3.0
+E09000033,Westminster,2017,Rented from Private landlord,90200,4.0
+E09000001,City of London,2018,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2018,Rented from Private landlord,49700,2.0
+E09000003,Barnet,2018,Rented from Private landlord,97900,2.0
+E09000004,Bexley,2018,Rented from Private landlord,39600,2.0
+E09000005,Brent,2018,Rented from Private landlord,107900,4.0
+E09000006,Bromley,2018,Rented from Private landlord,70400,2.0
+E09000007,Camden,2018,Rented from Private landlord,72100,3.0
+E09000008,Croydon,2018,Rented from Private landlord,92700,3.0
+E09000009,Ealing,2018,Rented from Private landlord,83200,2.0
+E09000010,Enfield,2018,Rented from Private landlord,94500,4.0
+E09000011,Greenwich,2018,Rented from Private landlord,53100,1.0
+E09000012,Hackney,2018,Rented from Private landlord,66500,3.0
+E09000013,Hammersmith and Fulham,2018,Rented from Private landlord,58200,4.0
+E09000014,Haringey,2018,Rented from Private landlord,93900,4.0
+E09000015,Harrow,2018,Rented from Private landlord,83800,4.0
+E09000016,Havering,2018,Rented from Private landlord,33600,1.0
+E09000017,Hillingdon,2018,Rented from Private landlord,65100,3.0
+E09000018,Hounslow,2018,Rented from Private landlord,74400,3.0
+E09000019,Islington,2018,Rented from Private landlord,69300,3.0
+E09000020,Kensington and Chelsea,2018,Rented from Private landlord,44100,3.0
+E09000021,Kingston upon Thames,2018,Rented from Private landlord,50500,3.0
+E09000022,Lambeth,2018,Rented from Private landlord,79500,2.0
+E09000023,Lewisham,2018,Rented from Private landlord,69400,2.0
+E09000024,Merton,2018,Rented from Private landlord,54900,3.0
+E09000025,Newham,2018,Rented from Private landlord,94800,3.0
+E09000026,Redbridge,2018,Rented from Private landlord,96900,3.0
+E09000027,Richmond upon Thames,2018,Rented from Private landlord,34700,2.0
+E09000028,Southwark,2018,Rented from Private landlord,76700,2.0
+E09000029,Sutton,2018,Rented from Private landlord,47300,2.0
+E09000030,Tower Hamlets,2018,Rented from Private landlord,109400,3.0
+E09000031,Waltham Forest,2018,Rented from Private landlord,51600,1.0
+E09000032,Wandsworth,2018,Rented from Private landlord,84600,3.0
+E09000033,Westminster,2018,Rented from Private landlord,84800,4.0
+E09000001,City of London,2019,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2019,Rented from Private landlord,65500,3.0
+E09000003,Barnet,2019,Rented from Private landlord,112700,3.0
+E09000004,Bexley,2019,Rented from Private landlord,40900,2.0
+E09000005,Brent,2019,Rented from Private landlord,122100,4.0
+E09000006,Bromley,2019,Rented from Private landlord,68400,2.0
+E09000007,Camden,2019,Rented from Private landlord,69200,3.0
+E09000008,Croydon,2019,Rented from Private landlord,114200,3.0
+E09000009,Ealing,2019,Rented from Private landlord,110200,3.0
+E09000010,Enfield,2019,Rented from Private landlord,88000,3.0
+E09000011,Greenwich,2019,Rented from Private landlord,59300,2.0
+E09000012,Hackney,2019,Rented from Private landlord,81200,3.0
+E09000013,Hammersmith and Fulham,2019,Rented from Private landlord,55700,4.0
+E09000014,Haringey,2019,Rented from Private landlord,87200,4.0
+E09000015,Harrow,2019,Rented from Private landlord,74700,3.0
+E09000016,Havering,2019,Rented from Private landlord,31800,1.0
+E09000017,Hillingdon,2019,Rented from Private landlord,94200,3.0
+E09000018,Hounslow,2019,Rented from Private landlord,81000,4.0
+E09000019,Islington,2019,Rented from Private landlord,56100,3.0
+E09000020,Kensington and Chelsea,2019,Rented from Private landlord,45500,3.0
+E09000021,Kingston upon Thames,2019,Rented from Private landlord,47900,2.0
+E09000022,Lambeth,2019,Rented from Private landlord,83200,2.0
+E09000023,Lewisham,2019,Rented from Private landlord,70300,2.0
+E09000024,Merton,2019,Rented from Private landlord,58900,3.0
+E09000025,Newham,2019,Rented from Private landlord,123600,4.0
+E09000026,Redbridge,2019,Rented from Private landlord,110400,4.0
+E09000027,Richmond upon Thames,2019,Rented from Private landlord,34400,2.0
+E09000028,Southwark,2019,Rented from Private landlord,67400,2.0
+E09000029,Sutton,2019,Rented from Private landlord,38500,2.0
+E09000030,Tower Hamlets,2019,Rented from Private landlord,101800,3.0
+E09000031,Waltham Forest,2019,Rented from Private landlord,72900,3.0
+E09000032,Wandsworth,2019,Rented from Private landlord,107100,4.0
+E09000033,Westminster,2019,Rented from Private landlord,83500,4.0
+E09000001,City of London,2020,Rented from Private landlord,,
+E09000002,Barking and Dagenham,2020,Rented from Private landlord,50000,2.0
+E09000003,Barnet,2020,Rented from Private landlord,107000,3.0
+E09000004,Bexley,2020,Rented from Private landlord,42100,1.0
+E09000005,Brent,2020,Rented from Private landlord,107300,4.0
+E09000006,Bromley,2020,Rented from Private landlord,45300,2.0
+E09000007,Camden,2020,Rented from Private landlord,67400,3.0
+E09000008,Croydon,2020,Rented from Private landlord,98000,3.0
+E09000009,Ealing,2020,Rented from Private landlord,116700,4.0
+E09000010,Enfield,2020,Rented from Private landlord,70200,2.0
+E09000011,Greenwich,2020,Rented from Private landlord,78600,2.0
+E09000012,Hackney,2020,Rented from Private landlord,94100,3.0
+E09000013,Hammersmith and Fulham,2020,Rented from Private landlord,62700,4.0
+E09000014,Haringey,2020,Rented from Private landlord,86900,4.0
+E09000015,Harrow,2020,Rented from Private landlord,53200,2.0
+E09000016,Havering,2020,Rented from Private landlord,52800,2.0
+E09000017,Hillingdon,2020,Rented from Private landlord,59900,2.0
+E09000018,Hounslow,2020,Rented from Private landlord,84200,3.0
+E09000019,Islington,2020,Rented from Private landlord,51800,2.0
+E09000020,Kensington and Chelsea,2020,Rented from Private landlord,50800,4.0
+E09000021,Kingston upon Thames,2020,Rented from Private landlord,37300,2.0
+E09000022,Lambeth,2020,Rented from Private landlord,100600,4.0
+E09000023,Lewisham,2020,Rented from Private landlord,66000,2.0
+E09000024,Merton,2020,Rented from Private landlord,69400,4.0
+E09000025,Newham,2020,Rented from Private landlord,128100,4.0
+E09000026,Redbridge,2020,Rented from Private landlord,100900,3.0
+E09000027,Richmond upon Thames,2020,Rented from Private landlord,29400,2.0
+E09000028,Southwark,2020,Rented from Private landlord,87900,2.0
+E09000029,Sutton,2020,Rented from Private landlord,49600,2.0
+E09000030,Tower Hamlets,2020,Rented from Private landlord,110100,3.0
+E09000031,Waltham Forest,2020,Rented from Private landlord,56500,3.0
+E09000032,Wandsworth,2020,Rented from Private landlord,107900,3.0
+E09000033,Westminster,2020,Rented from Private landlord,65700,3.0
