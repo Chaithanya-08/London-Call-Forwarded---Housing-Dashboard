@@ -22,6 +22,8 @@ With 6.4M views, 3700 reposts & 93,000 likes. A viral post sparking curiosity, i
 
 # Beatles - Data Roads
 The Data utilized in London Calls Forwarded comes from [London Housing Data](https://data.london.gov.uk/housing).
+
+
 London's Borough Shapefiles were extracted from
 [GIS Boundary Files London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london).
 
@@ -88,7 +90,7 @@ For Exterior Boroughs that have limited Net Additions, as identified on Graph - 
 ![alt text](image-10.png)
 
 
-Additionally, Central London shows different trends. Boroughs such as Newham, Tower Hamlets where there's a great need for Housing. Renting from Local Authority went from being the most popular to 3rd most popular option. Indicating, potential privatization of Central London Housing Market.
+Additionally, Central London shows different trends. Boroughs such as Newham, Tower Hamlets where there's a great need for Housing. Renting from Local Authority went from being the most popular to 3rd most popular option. Indicating, possible Trends in the Housing Market.
 
 ![alt text](image-11.png)
 
